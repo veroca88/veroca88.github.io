@@ -1,0 +1,197 @@
+{
+    "results": [
+        {
+            "question": "What is the supreme law of the land?",
+            "correct_answer": "The Constitution.",
+            "incorrect_answers": [
+                "The Bill of Rights.",
+                "Civil Rights.",
+                "The rule of Law."
+            ]
+        },
+        {
+            "question": "What does the constitution do?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Set up the government.",
+                "Define the government.",
+                "Protect the basic rights of Americans."
+            ]
+        },
+        {
+            "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+            "correct_answer": "We the people.",
+            "incorrect_answers": [
+                "All the citizens",
+                "United State population",
+                "Only the government"
+            ]
+        },
+        {
+            "question": "What is an amendment?",
+            "correct_answer": "A change or addition (to the constitution).",
+            "incorrect_answers": [
+                "Preservation (to the constitution).",
+                "Substraction (to the constitution)."
+            ]
+        },
+        {
+            "question": "What do we call the first 10 amendments to the constitution?",
+            "correct_answer": "The Bill of Rights.",
+            "incorrect_answers": [
+                "The Constitution.",
+                "The rule of Law.",
+                "Civil Rights."
+            ]
+        },
+        {
+            "question": "What is a right or freedom from the first amendment?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Speech.",
+                "Religion.",
+                "Press.",
+                "Assembly.",
+                "Petition of government"
+            ]
+        },
+        {
+            "question": "How many amendments does the constitution have?",
+            "correct_answer": "27",
+            "incorrect_answers": [
+                "16",
+                "29",
+                "21"
+            ]
+        },
+        {
+            "question": "What did the declaration of independence do?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Announce our independance from Great Britain.",
+                "Declare our independance from Great Britain. ",
+                "Said United States is free from Great Britain."
+            ]
+        },
+        {
+            "question": "What are the rights on the declaration of independence",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Life.",
+                "Liberty.",
+                "Pursuit of hapiness."
+            ]
+        },
+        {
+            "question": "What is the freedom of religion?",
+            "correct_answer": "You can practice any religion, o not practice a religion.",
+            "incorrect_answers": [
+                "You have to be part of any religion.",
+                "You can choose between Jewish, Christian or Catholic."
+            ]
+        },
+        {
+            "question": "What is the economic system in the United States?",
+            "correct_answer": "Capitalist economy.",
+            "incorrect_answers": [
+                "Socialist economy.",
+                "Traditional economy."
+            ]
+        },
+        {
+            "question": "What is the ‘rule of law’?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Everyone must follow the law.",
+                "Leaders must obey the law.",
+                "Government must obey the law.",
+                "No one is above the law."
+            ]
+        },
+        {
+            "question": "Name one branch or part of the government",
+            "correct_answer": "The president",
+            "incorrect_answers": [
+                "The attorney General",
+                "The speaker of the house.",
+                "The White House."
+            ]
+        },
+        {
+            "question": "What stops one branch of government from becoming too powerful?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Checks and balances.",
+                "Separation of powers"
+            ]
+        },
+        {
+            "question": "Who is in charge of the executive branch?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The vice-president.",
+                "The speaker of the house.",
+                "The congress."
+            ]
+        },
+        {
+            "question": "Who makes federal laws?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Congress",
+                "Senate and House of representatives.",
+                "U.S. Legislature."
+            ]
+        },
+        {
+            "question": "What are the two parts of the United State congress?",
+            "correct_answer": "Senate and House of representatives.",
+            "incorrect_answers": [
+                "The President and the Vice-president.",
+                "Secretary of Defense and Secretary of State"
+            ]
+        },
+        {
+            "question": "How many US senators are there?",
+            "correct_answer": "100.",
+            "incorrect_answers": [
+                "50.",
+                "435.",
+                "180."
+            ]
+        },
+        {
+            "question": "We elect US Senators for how many years?",
+            "correct_answer": "6 years.",
+            "incorrect_answers": [
+                "2 years.",
+                "4 years."
+            ]
+        },
+        {
+            "question": "We elect a U.S representative for how many years?",
+            "correct_answer": "2 years.",
+            "incorrect_answers": [
+                "6 years.",
+                "2 years."
+            ]
+        },
+        {
+            "question": "The house of representatives has how many voting members?",
+            "correct_answer": "435.",
+            "incorrect_answers": [
+                "100.",
+                "180.",
+                "50."
+            ]
+        },
+        {
+            "question": "Who does the U.S Senator represent?",
+            "correct_answer": "All people of the state",
+            "incorrect_answers": [
+                "All U.S. citizens.",
+                "All people in the same political party."
+            ]
+        }
+    ]
+}
