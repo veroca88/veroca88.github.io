@@ -192,6 +192,131 @@
                 "All U.S. citizens.",
                 "All people in the same political party."
             ]
+        },
+        {
+            "question": "Why do some states have more representatives than other states?",
+            "correct_answer": "Because of state's population.",
+            "incorrect_answers": [
+                "Because they are the original colonies.",
+                "Because of the size of the state."
+            ]
+        },
+        {
+            "question": "What does the constitution do?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Set up the government.",
+                "Define the government.",
+                "Protect the basic rights of Americans."
+            ]
+        },
+        {
+            "question": "We elect president for how many years?",
+            "correct_answer": "4 years.",
+            "incorrect_answers": [
+                "2 years.",
+                "6 years."
+            ]
+        },
+        {
+            "question": "In what month do we vote for president?",
+            "correct_answer": "November.",
+            "incorrect_answers": [
+                "June.",
+                "October."
+            ]
+        },
+        {
+            "question": "If the president can no longer serve, who becomes president?",
+            "correct_answer": "The Vice-president.",
+            "incorrect_answers": [
+                "The Speaker of the house.",
+                "The Chief justice."
+            ]
+        },
+        {
+            "question": "If the president and the vice president can no longer serve, who becomes president?",
+            "correct_answer": "The Speaker of the house.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General."
+            ]
+        },
+        {
+            "question": "Who is the commander in chief of the military?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "Who signs bills to become laws?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "Who vetoes bills?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "What does the president cabinet do?",
+            "correct_answer": "Advices the president.",
+            "incorrect_answers": [
+                "Vetoes bills.",
+                "Sign bills to become laws."
+            ]
+        },
+        {
+            "question": "What are the Cabinet level positions?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Secretary of Agriculture.",
+                "Secretary of Commerce",
+                "Secretary of Defense",
+                "Secretary of Education",
+                "Secretary of Energy",
+                "Secretary of Health and Human Services",
+                "Secretary of Homeland Security",
+                "Secretary of Housing and Urban Development",
+                "Secretary of the Interior",
+                "Secretary of Labor",
+                "Secretary of State",
+                "Secretary of Transportation",
+                "Secretary of the Treasury",
+                "Secretary of Veterans Affairs",
+                "Attorney General",
+                "Vice President"
+            ]
+        },
+        {
+            "question": "What does the judicial branch do?",
+            "correct_answer": "All of the above.",
+            "incorrect_answers": [
+                "Reviews the laws.",
+                "Explains the laws.",
+                "Resolves disputes.",
+                "Decides if a law goes against the constitution."
+            ]
+        },
+        {
+            "question": "What is the highest court in the United States?",
+            "correct_answer": "The supreme court.",
+            "incorrect_answers": [
+                "The congress.",
+                "US District court.",
+                "The White House."
+            ]
         }
     ]
 }
