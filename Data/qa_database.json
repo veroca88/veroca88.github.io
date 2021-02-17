@@ -173,7 +173,7 @@
             "correct_answer": "2 years.",
             "incorrect_answers": [
                 "6 years.",
-                "2 years."
+                "4 years."
             ]
         },
         {
@@ -550,6 +550,70 @@
                 "First Postmaster General of United States.",
                 "Writer of “Poor Richard’s Almanac”.",
                 "Started the first free libraries"
+            ]
+        },
+        {
+            "question": "Who is the “Father of Our Country”? ",
+            "correct_answer": "George Washington.",
+            "incorrect_answers": [
+                "Benjamin Franklin.",
+                "Thomas Jefferson.",
+                "John Adams."
+            ]
+        },
+        {
+            "question": "Who was the first President?",
+            "correct_answer": "George Washington.",
+            "incorrect_answers": [
+                "Benjamin Franklin.",
+                "Thomas Jefferson.",
+                "John Adams."
+            ]
+        },
+        {
+            "question": "What territory did the United States buy from France in 1803? ",
+            "correct_answer": "Louisiana.",
+            "incorrect_answers": [
+                "Maine.",
+                "Idaho.",
+                "Wyoming."
+            ]
+        },
+        {
+            "question": "Name wars fought by the United States in the 1800s.?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "War of 1812.",
+                "Mexican-American War.",
+                "Civil War",
+                "Spanish-American War"
+            ]
+        },
+        {
+            "question": "Name the U.S. war between the North and the South?",
+            "correct_answer": "Civil War.",
+            "incorrect_answers": [
+                "War of 1812.",
+                "Mexican-American War.",
+                "Spanish-American War"
+            ]
+        },
+        {
+            "question": "Name problem that led to the Civil War?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Slavery.",
+                "Economy reasons.",
+                "States rights."
+            ]
+        },
+        {
+            "question": "What was one important thing that Abraham Lincoln did?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Led the United States during the Civil war.",
+                "Freed the slaves (Emancipation Proclamation).",
+                "Saved (or preserved) the Union."
             ]
         }
     ]
