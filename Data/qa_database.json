@@ -608,12 +608,233 @@
             ]
         },
         {
-            "question": "What was one important thing that Abraham Lincoln did?",
+            "question": "What was importants things that Abraham Lincoln did?",
             "correct_answer": "All of the mentioned.",
             "incorrect_answers": [
                 "Led the United States during the Civil war.",
                 "Freed the slaves (Emancipation Proclamation).",
                 "Saved (or preserved) the Union."
+            ]
+        },
+        {
+            "question": "What did the Emancipation Proclamation do? ",
+            "correct_answer": "Freed the slaves.",
+            "incorrect_answers": [
+                "Abolished high taxes.",
+                "Declare the war.",
+                "Saved the Union."
+            ]
+        },
+        {
+            "question": "What did Susan B. Anthony do? ",
+            "correct_answer": "Fought for women's rights.",
+            "incorrect_answers": [
+                "Fought the war in the 1900s.",
+                "Saved the Union.",
+                "Abolished high taxes."
+            ]
+        },
+        {
+            "question": "What war(s) fought by the United States in the 1900s?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "War World I.",
+                "War World II.",
+                "Korean War.",
+                "Vietnam War",
+                "(Persian) Gulf War"
+            ]
+        },
+        {
+            "question": " Who was President during World War I? ",
+            "correct_answer": "Woodrow Wilson.",
+            "incorrect_answers": [
+                "William H. Taft.",
+                "Warren G. Harding.",
+                "Calvin Coolidge."
+            ]
+        },
+        {
+            "question": "Who was President during the Great Depression and World War II?",
+            "correct_answer": "Franklin Roosevelt.",
+            "incorrect_answers": [
+                "Herbert Hoover.",
+                "Harry S Truman.",
+                "John F. Kennedy",
+                "Calvin Coolidge"
+            ]
+        },
+        {
+            "question": "Who did the United States fight in World War II?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Italy.",
+                "Germany.",
+                "Japan."
+            ]
+        },
+        {
+            "question": "Before he was President, Eisenhower was a general. What war was he in?",
+            "correct_answer": "War War II.",
+            "incorrect_answers": [
+                "War World I.",
+                "Korean War.",
+                "Vietnam War",
+                "(Persian) Gulf War"
+            ]
+        },
+        {
+            "question": "During the Cold War, what was the main concern of the United States?",
+            "correct_answer": "Comunism.",
+            "incorrect_answers": [
+                "Poverty.",
+                "Lose the war.",
+                "Development of nuclear technology."
+            ]
+        },
+        {
+            "question": "What movement tried to end racial discrimination?",
+            "correct_answer": "The civic rights movement.",
+            "incorrect_answers": [
+                "Woman's missionary movement.",
+                "The social gospel movement.",
+                "Ecumenical movement."
+            ]
+        },
+        {
+            "question": "What did Martin Luther King, Jr. do?",
+            "correct_answer": "Fought for civil rights.",
+            "incorrect_answers": [
+                "Join to a political party.",
+                "Write a newspaper."
+            ]
+        },
+        {
+            "question": "What major event happened on September 11, 2001, in the United States?",
+            "correct_answer": "Terrosrist attacked the United States.",
+            "incorrect_answers": [
+                "Security at many airports worldwide was escalated to deter similar terrorist.",
+                "Cockpit doors on many aircraft are reinforced and bulletproof to prevent unauthorized access.",
+                "Newer body scanners have been introduced in airports."
+            ]
+        },
+        {
+            "question": " Name one American Indian tribe in the United States?",
+            "correct_answer": "Cherokee.",
+            "incorrect_answers": [
+                "Inca.",
+                "Maya.",
+                "Crew."
+            ]
+        },
+        {
+            "question": "What are the two longest rivers in the United States?",
+            "correct_answer": "Missouri and Mississippi.",
+            "incorrect_answers": [
+                "Missouri and Yukon.",
+                "Mississippi and Rio Grande.",
+                "Missouri and Arkansas river."
+            ]
+        },
+        {
+            "question": "What ocean is on the West Coast of the United States?",
+            "correct_answer": "Pacific Ocean.",
+            "incorrect_answers": [
+                "Atlantic Ocean.",
+                "Artic Ocean.",
+                "Indian Ocean."
+            ]
+        },
+        {
+            "question": "What ocean is on the East Coast of the United States?",
+            "correct_answer": "Atlantic Ocean.",
+            "incorrect_answers": [
+                "Pacific Ocean.",
+                "Artic Ocean.",
+                "Indian Ocean."
+            ]
+        },
+        {
+            "question": "Name U.S. territory?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Puerto Rico.",
+                "Virgin Islands.",
+                "American Samoa.",
+                "Northern Mariana Islands.",
+                "Guam"
+            ]
+        },
+        {
+            "question": "Name one state that borders Canada?",
+            "correct_answer": "Montana.",
+            "incorrect_answers": [
+                "Nebraska.",
+                "Massachusetts.",
+                "Illinois."
+            ]
+        },
+        {
+            "question": "Name one state that borders Mexico?",
+            "correct_answer": "California.",
+            "incorrect_answers": [
+                "Louisiana.",
+                "Nevada.",
+                "Colorado."
+            ]
+        },
+        {
+            "question": "What is the capital of the United States?",
+            "correct_answer": "Washington, D.C.",
+            "incorrect_answers": [
+                "New York.",
+                "California.",
+                "Kansas."
+            ]
+        },
+        {
+            "question": "Where is the Statue of Liberty?",
+            "correct_answer": "Liberty Island.",
+            "incorrect_answers": [
+                "Golden Isles.",
+                "Hilton Head.",
+                "Amelia Island"
+            ]
+        },
+        {
+            "question": "Why does the flag have 13 stripes?",
+            "correct_answer": "Because there were 13 original colonies.",
+            "incorrect_answers": [
+                "Because represent the Founding Fathers.",
+                "Because of the British Army.",
+                "Because of the number of members of President's Cabinet."
+            ]
+        },
+        {
+            "question": "Why does the flag have 50 stars?",
+            "correct_answer": "Because there is one star for each state.",
+            "incorrect_answers": [
+                "Because represent the Founding Fathers.",
+                "Because of the British Army.",
+                "Because of the number of members of President's Cabinet."
+            ]
+        },
+        {
+            "question": "What is the name of the national anthem?",
+            "correct_answer": "The Star-Spangled Banner.",
+            "incorrect_answers": [
+                "God bless America.",
+                "This land is your land.",
+                "America the beautiful."
+            ]
+        },
+        {
+            "question": "When do we celebrate Independence Day?",
+            "correct_answer": "July 4th.",
+            "incorrect_answers": [
+                "December 25th.",
+                "May 5th.",
+                "January 1st."
             ]
         }
     ]
