@@ -840,9 +840,7 @@
     ],
     "companies": [
         {
-            "_id": {
-                "$oid": "60b57252ec22733cfa368d6e"
-            },
+            "_id": "60b57252ec22733cfa368d6e",
             "name": "Wetpaint",
             "homepage_url": "http://wetpaint-inc.com",
             "twitter_username": "BachelrWetpaint",
@@ -925,9 +923,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b57464ec22733cfa368d70"
-            },
+            "_id": "60b57464ec22733cfa368d70",
             "name": "Facebook",
             "homepage_url": "http://facebook.com",
             "twitter_username": "facebook",
@@ -1628,9 +1624,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b578011b0b31f4be502345"
-            },
+            "_id": "60b578011b0b31f4be502345",
             "name": "Omnidrive",
             "homepage_url": "http://www.omnidrive.com",
             "twitter_username": "Nomadesk",
@@ -1710,9 +1704,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b5788a1b0b31f4be502346"
-            },
+            "_id": "60b5788a1b0b31f4be502346",
             "name": "Twitter",
             "homepage_url": "http://twitter.com",
             "twitter_username": "twitter",
@@ -2200,9 +2192,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b57c115d5cde762710241c"
-            },
+            "_id": "60b57c115d5cde762710241c",
             "name": "StumbleUpon",
             "homepage_url": "http://www.stumbleupon.com",
             "twitter_username": "stumbleupon",
@@ -2453,9 +2443,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b57f501cc139e9679cd186"
-            },
+            "_id": "60b57f501cc139e9679cd186",
             "name": "Scribd",
             "homepage_url": "http://scribd.com",
             "twitter_username": "scribd",
@@ -2711,9 +2699,7 @@
             ]
         },
         {
-            "_id": {
-                "$oid": "60b580fe1cc139e9679cd187"
-            },
+            "_id": "60b580fe1cc139e9679cd187",
             "name": "Slacker",
             "homepage_url": "http://www.slacker.com",
             "twitter_username": "SlackerRadio",
