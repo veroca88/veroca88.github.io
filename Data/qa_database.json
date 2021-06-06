@@ -845,18 +845,8 @@
             "homepage_url": "http://wetpaint-inc.com",
             "twitter_username": "BachelrWetpaint",
             "category_code": "web",
-            "number_of_employees": {
-                "$numberInt": "47"
-            },
-            "founded_year": {
-                "$numberInt": "2005"
-            },
-            "founded_month": {
-                "$numberInt": "10"
-            },
-            "founded_day": {
-                "$numberInt": "17"
-            },
+            "number_of_employees": "47",
+            "founded_year": "2005",
             "description": "Technology Platform Company",
             "total_money_raised": "$39.8M",
             "funding_rounds": [
@@ -928,18 +918,8 @@
             "homepage_url": "http://facebook.com",
             "twitter_username": "facebook",
             "category_code": "social",
-            "number_of_employees": {
-                "$numberInt": "5299"
-            },
-            "founded_year": {
-                "$numberInt": "2004"
-            },
-            "founded_month": {
-                "$numberInt": "2"
-            },
-            "founded_day": {
-                "$numberInt": "1"
-            },
+            "number_of_employees": "5299",
+            "founded_year": "2004",
             "description": "Social network",
             "total_money_raised": "$2.43B",
             "funding_rounds": [
@@ -1630,15 +1610,7 @@
             "twitter_username": "Nomadesk",
             "category_code": "network_hosting",
             "number_of_employees": null,
-            "founded_year": {
-                "$numberInt": "2005"
-            },
-            "founded_month": {
-                "$numberInt": "11"
-            },
-            "founded_day": {
-                "$numberInt": "1"
-            },
+            "founded_year": "2005",
             "description": null,
             "total_money_raised": "$800k",
             "funding_rounds": [
@@ -1709,18 +1681,8 @@
             "homepage_url": "http://twitter.com",
             "twitter_username": "twitter",
             "category_code": "social",
-            "number_of_employees": {
-                "$numberInt": "1300"
-            },
-            "founded_year": {
-                "$numberInt": "2006"
-            },
-            "founded_month": {
-                "$numberInt": "3"
-            },
-            "founded_day": {
-                "$numberInt": "21"
-            },
+            "number_of_employees": "1300",
+            "founded_year": "2006",
             "description": "Real time communication platform",
             "total_money_raised": "$1.16B",
             "funding_rounds": [
@@ -2198,15 +2160,7 @@
             "twitter_username": "stumbleupon",
             "category_code": "web",
             "number_of_employees": null,
-            "founded_year": {
-                "$numberInt": "2002"
-            },
-            "founded_month": {
-                "$numberInt": "2"
-            },
-            "founded_day": {
-                "$numberInt": "1"
-            },
+            "founded_year": "2002",
             "description": "Content discovery service",
             "total_money_raised": "$18.5M",
             "funding_rounds": [
@@ -2448,12 +2402,8 @@
             "homepage_url": "http://scribd.com",
             "twitter_username": "scribd",
             "category_code": "news",
-            "number_of_employees": {
-                "$numberInt": "50"
-            },
-            "founded_year": {
-                "$numberInt": "2007"
-            },
+            "number_of_employees": "50",
+            "founded_year": "2007",
             "description": "Read Unlimited Books",
             "total_money_raised": "$25.8M",
             "funding_rounds": [
@@ -2705,9 +2655,7 @@
             "twitter_username": "SlackerRadio",
             "category_code": "music",
             "number_of_employees": null,
-            "founded_year": {
-                "$numberInt": "2006"
-            },
+            "founded_year": "2006",
             "description": "Music Personalization Suite",
             "total_money_raised": "$73.1M",
             "funding_rounds": [
