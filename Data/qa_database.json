@@ -857,37 +857,9 @@
                     "round_code": "a",
                     "source_url": "http://seattlepi.nwsource.com/business/246734_wiki02.html",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "5250000"
-                    },
+                    "raised_amount": "5250000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2005"
-                    },
-                    "funded_month": {
-                        "$numberInt": "10"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Frazier Technology Ventures",
-                                "permalink": "frazier-technology-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Trinity Ventures",
-                                "permalink": "trinity-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2005",
                 },
                 {
                     "id": {
@@ -896,19 +868,9 @@
                     "round_code": "b",
                     "source_url": "http://pulse2.com/2007/01/09/wiki-builder-website-wetpaint-welcomes-95m-funding/",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "9500000"
-                    },
+                    "raised_amount": "9500000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    }
+                    "funded_year": "2007"
                 }
             ]
         },
@@ -930,39 +892,9 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "500000"
-                    },
+                    "raised_amount": "500000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2004"
-                    },
-                    "funded_month": {
-                        "$numberInt": "9"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Peter",
-                                "last_name": "Thiel",
-                                "permalink": "peter-thiel"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Reid",
-                                "last_name": "Hoffman",
-                                "permalink": "reid-hoffman"
-                            }
-                        }
-                    ]
+                    "funded_year": "2004"
                 },
                 {
                     "id": {
@@ -971,47 +903,9 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/11/02/jim-breyer-extra-500-million-round-for-facebook-a-total-fiction/",
                     "source_description": "Jim Breyer: Extra $500 Million Round For Facebook A \"Total Fiction\"",
-                    "raised_amount": {
-                        "$numberInt": "12700000"
-                    },
+                    "raised_amount": "12700000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2005"
-                    },
-                    "funded_month": {
-                        "$numberInt": "5"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Accel Partners",
-                                "permalink": "accel-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Mark",
-                                "last_name": "Pincus",
-                                "permalink": "mark-pincus"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Reid",
-                                "last_name": "Hoffman",
-                                "permalink": "reid-hoffman"
-                            }
-                        }
-                    ]
+                    "funded_year": "2005"
                 },
                 {
                     "id": {
@@ -1020,53 +914,9 @@
                     "round_code": "b",
                     "source_url": "http://www.facebook.com/press/info.php?factsheet",
                     "source_description": "Facebook Funding",
-                    "raised_amount": {
-                        "$numberInt": "27500000"
-                    },
+                    "raised_amount": "27500000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2006"
-                    },
-                    "funded_month": {
-                        "$numberInt": "4"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Greylock Partners",
-                                "permalink": "greylock"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Meritech Capital Partners",
-                                "permalink": "meritech-capital-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Founders Fund",
-                                "permalink": "founders-fund"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "SV Angel",
-                                "permalink": "sv-angel"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2006"
                 },
                 {
                     "id": {
@@ -1075,29 +925,9 @@
                     "round_code": "c",
                     "source_url": "http://www.microsoft.com/en-us/news/press/2007/oct07/10-24FacebookPR.aspx",
                     "source_description": "Facebook and Microsoft Expand Strategic Alliance",
-                    "raised_amount": {
-                        "$numberInt": "240000000"
-                    },
+                    "raised_amount": "240000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "10"
-                    },
-                    "funded_day": {
-                        "$numberInt": "24"
-                    },
-                    "investments": [
-                        {
-                            "company": {
-                                "name": "Microsoft",
-                                "permalink": "microsoft"
-                            },
-                            "financial_org": null,
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -1106,38 +936,9 @@
                     "round_code": "c",
                     "source_url": "http://venturebeat.com/2007/11/30/facebook-gets-60m-from-hong-kong-billionaire-li-ka-shing/",
                     "source_description": "Facebook gets $60M from Hong Kong billionaire Li Ka-shing",
-                    "raised_amount": {
-                        "$numberInt": "60000000"
-                    },
+                    "raised_amount": "60000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "11"
-                    },
-                    "funded_day": {
-                        "$numberInt": "30"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Li",
-                                "last_name": "Ka-shing",
-                                "permalink": "li-ka-shing"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Horizons Ventures",
-                                "permalink": "horizons-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -1146,29 +947,9 @@
                     "round_code": "c",
                     "source_url": "http://www.techcrunch.com/2008/01/15/breaking-samwer-brothers-invest-in-facebook/",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "15000000"
-                    },
+                    "raised_amount": "15000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2008"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "15"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "European Founders Fund",
-                                "permalink": "european-founders-fund"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2008"
                 },
                 {
                     "id": {
@@ -1177,29 +958,9 @@
                     "round_code": "debt_round",
                     "source_url": "http://www.businessweek.com/technology/content/may2008/tc2008059_855064.htm",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "100000000"
-                    },
+                    "raised_amount": "100000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2008"
-                    },
-                    "funded_month": {
-                        "$numberInt": "5"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "TriplePoint Capital",
-                                "permalink": "triplepoint-capital"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2008"
                 },
                 {
                     "id": {
@@ -1208,297 +969,9 @@
                     "round_code": "c",
                     "source_url": "http://www.paidcontent.org/entry/419-facebook-investor-li-ka-shing-increasing-stake-in-facebook/",
                     "source_description": "Updated: Facebook Investor Li Ka-Shing Upping Stake To $120 Million: Report",
-                    "raised_amount": {
-                        "$numberInt": "60000000"
-                    },
+                    "raised_amount": "60000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "created_at": {
-                            "$date": {
-                                "$numberLong": "1180075887000"
-                            }
-                        },
-                        "updated_at": "Sun Dec 08 07:15:44 UTC 2013",
-                        "overview": "<p>Wetpaint is a technology platform company that uses its proprietary state-of-the-art technology and expertise in social media to build and monetize audiences for digital publishers. Wetpaint’s own online property, Wetpaint Entertainment, an entertainment news site that attracts more than 12 million unique visitors monthly and has over 2 million Facebook fans, is a proof point to the company’s success in building and engaging audiences. Media companies can license Wetpaint’s platform which includes a dynamic playbook tailored to their individual needs and comprehensive training. Founded by Internet pioneer Ben Elowitz, and with offices in New York and Seattle, Wetpaint is backed by Accel Partners, the investors behind Facebook.</p>",
-                        "image": {
-                            "available_sizes": [
-                                [
-                                    [
-                                        {
-                                            "$numberInt": "150"
-                                        },
-                                        {
-                                            "$numberInt": "75"
-                                        }
-                                    ],
-                                    "assets/images/resized/0000/3604/3604v14-max-150x150.jpg"
-                                ],
-                                [
-                                    [
-                                        {
-                                            "$numberInt": "250"
-                                        },
-                                        {
-                                            "$numberInt": "125"
-                                        }
-                                    ],
-                                    "assets/images/resized/0000/3604/3604v14-max-250x250.jpg"
-                                ],
-                                [
-                                    [
-                                        {
-                                            "$numberInt": "450"
-                                        },
-                                        {
-                                            "$numberInt": "225"
-                                        }
-                                    ],
-                                    "assets/images/resized/0000/3604/3604v14-max-450x450.jpg"
-                                ]
-                            ]
-                        },
-                        "products": [
-                            {
-                                "name": "Wikison Wetpaint",
-                                "permalink": "wetpaint-wiki"
-                            },
-                            {
-                                "name": "Wetpaint Social Distribution System",
-                                "permalink": "wetpaint-social-distribution-system"
-                            }
-                        ],
-                        "relationships": [
-                            {
-                                "is_past": false,
-                                "title": "Co-Founder and VP, Social and Audience Development",
-                                "person": {
-                                    "first_name": "Michael",
-                                    "last_name": "Howell",
-                                    "permalink": "michael-howell"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "Co-Founder/CEO/Board of Directors",
-                                "person": {
-                                    "first_name": "Ben",
-                                    "last_name": "Elowitz",
-                                    "permalink": "ben-elowitz"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "COO/Board of Directors",
-                                "person": {
-                                    "first_name": "Rob",
-                                    "last_name": "Grady",
-                                    "permalink": "rob-grady"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "SVP, Strategy and Business Development",
-                                "person": {
-                                    "first_name": "Chris",
-                                    "last_name": "Kollas",
-                                    "permalink": "chris-kollas"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "Board",
-                                "person": {
-                                    "first_name": "Theresia",
-                                    "last_name": "Ranzetta",
-                                    "permalink": "theresia-ranzetta"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "Board Member",
-                                "person": {
-                                    "first_name": "Gus",
-                                    "last_name": "Tai",
-                                    "permalink": "gus-tai"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "Board",
-                                "person": {
-                                    "first_name": "Len",
-                                    "last_name": "Jordan",
-                                    "permalink": "len-jordan"
-                                }
-                            },
-                            {
-                                "is_past": false,
-                                "title": "Head of Technology and Product",
-                                "person": {
-                                    "first_name": "Alex",
-                                    "last_name": "Weinstein",
-                                    "permalink": "alex-weinstein"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "CFO",
-                                "person": {
-                                    "first_name": "Bert",
-                                    "last_name": "Hogue",
-                                    "permalink": "bert-hogue"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "CFO/ CRO",
-                                "person": {
-                                    "first_name": "Brian",
-                                    "last_name": "Watkins",
-                                    "permalink": "brian-watkins"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "Senior Vice President, Marketing",
-                                "person": {
-                                    "first_name": "Rob",
-                                    "last_name": "Grady",
-                                    "permalink": "rob-grady"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "VP, Technology and Product",
-                                "person": {
-                                    "first_name": "Werner",
-                                    "last_name": "Koepf",
-                                    "permalink": "werner-koepf"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "VP Marketing",
-                                "person": {
-                                    "first_name": "Kevin",
-                                    "last_name": "Flaherty",
-                                    "permalink": "kevin-flaherty"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "VP User Experience",
-                                "person": {
-                                    "first_name": "Alex",
-                                    "last_name": "Berg",
-                                    "permalink": "alex-berg"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "VP Engineering",
-                                "person": {
-                                    "first_name": "Steve",
-                                    "last_name": "McQuade",
-                                    "permalink": "steve-mcquade"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "Executive Editor",
-                                "person": {
-                                    "first_name": "Susan",
-                                    "last_name": "Mulcahy",
-                                    "permalink": "susan-mulcahy"
-                                }
-                            },
-                            {
-                                "is_past": true,
-                                "title": "VP Business Development",
-                                "person": {
-                                    "first_name": "Chris",
-                                    "last_name": "Kollas",
-                                    "permalink": "chris-kollas"
-                                }
-                            }
-                        ],
-                        "competitions": [
-                            {
-                                "competitor": {
-                                    "name": "Wikia",
-                                    "permalink": "wikia"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "JotSpot",
-                                    "permalink": "jotspot"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "Socialtext",
-                                    "permalink": "socialtext"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "Ning by Glam Media",
-                                    "permalink": "ning"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "Soceeo",
-                                    "permalink": "soceeo"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "Yola",
-                                    "permalink": "yola"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "SocialGO",
-                                    "permalink": "socialgo"
-                                }
-                            },
-                            {
-                                "competitor": {
-                                    "name": "IslamNor",
-                                    "permalink": "islamnor"
-                                }
-                            }
-                        ],
-                        "$numberInt": "2008"
-                    },
-                    "funded_month": {
-                        "$numberInt": "3"
-                    },
-                    "funded_day": {
-                        "$numberInt": "27"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Li",
-                                "last_name": "Ka-shing",
-                                "permalink": "li-ka-shing"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Horizons Ventures",
-                                "permalink": "horizons-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2013"
                 },
                 {
                     "id": {
@@ -1507,29 +980,9 @@
                     "round_code": "d",
                     "source_url": "http://www.techcrunch.com/2009/05/26/facebook-takes-that-200-million-investment-from-the-russians-at-a-10-billion-valuation/",
                     "source_description": "Facebook Takes That $200 Million Investment From The Russians At A $10 Billion Valuation.",
-                    "raised_amount": {
-                        "$numberInt": "200000000"
-                    },
+                    "raised_amount": "200000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "5"
-                    },
-                    "funded_day": {
-                        "$numberInt": "26"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Digital Sky Technologies",
-                                "permalink": "digital-sky-technologies-fo"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -1538,29 +991,9 @@
                     "round_code": "unattributed",
                     "source_url": "http://techcrunch.com/2010/06/28/elevation-invests-another-120-million-in-facebook-as-that-ipo-looks-more-distant/",
                     "source_description": "Elevation Invests Another $120 Million in Facebook as that IPO Looks More Distant",
-                    "raised_amount": {
-                        "$numberInt": "210000000"
-                    },
+                    "raised_amount": "210000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2010"
-                    },
-                    "funded_month": {
-                        "$numberInt": "6"
-                    },
-                    "funded_day": {
-                        "$numberInt": "28"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Elevation Partners",
-                                "permalink": "elevation-partners"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2010"
                 },
                 {
                     "id": {
@@ -1569,37 +1002,9 @@
                     "round_code": "unattributed",
                     "source_url": "http://www.prnewswire.com/news-releases/facebook-raises-15-billion-114383494.html",
                     "source_description": "Facebook Raises $1.5 Billion",
-                    "raised_amount": {
-                        "$numberInt": "1500000000"
-                    },
+                    "raised_amount": "1500000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "21"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Goldman Sachs",
-                                "permalink": "goldman-sachs"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Digital Sky Technologies",
-                                "permalink": "digital-sky-technologies-fo"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2011"
                 }
             ]
         },
@@ -1621,57 +1026,9 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "800000"
-                    },
+                    "raised_amount": "800000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2006"
-                    },
-                    "funded_month": {
-                        "$numberInt": "12"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Michael",
-                                "last_name": "Arrington",
-                                "permalink": "michael-arrington"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Aydin",
-                                "last_name": "Senkut",
-                                "permalink": "aydin-senkut"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Georges",
-                                "last_name": "Harik",
-                                "permalink": "georges-harik"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Jeff",
-                                "last_name": "Clavier",
-                                "permalink": "jeff-clavier"
-                            }
-                        }
-                    ]
+                    "funded_year": "2006"
                 }
             ]
         },
@@ -1693,108 +1050,9 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/07/29/more-information-on-that-secretive-twitter-financing/",
                     "source_description": "More Information On That Secretive Twitter Financing",
-                    "raised_amount": {
-                        "$numberInt": "5000000"
-                    },
+                    "raised_amount": "5000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "7"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Charles River Ventures",
-                                "permalink": "charles-river-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Union Square Ventures",
-                                "permalink": "union-square-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Marc",
-                                "last_name": "Andreessen",
-                                "permalink": "marc-andreessen"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Dick",
-                                "last_name": "Costolo",
-                                "permalink": "dick-costolo"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Naval",
-                                "last_name": "Ravikant",
-                                "permalink": "naval-ravikant"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Ron",
-                                "last_name": "Conway",
-                                "permalink": "ron-conway"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Chris",
-                                "last_name": "Sacca",
-                                "permalink": "chris-sacca"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Greg",
-                                "last_name": "Yaitanes",
-                                "permalink": "greg-yaitanes"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Brian",
-                                "last_name": "Pokorny",
-                                "permalink": "brian-pokorny"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "SV Angel",
-                                "permalink": "sv-angel"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -1803,71 +1061,9 @@
                     "round_code": "b",
                     "source_url": "http://www.techcrunch.com/2008/06/24/twitter-announces-their-funding-calls-itself-a-communication-utility/",
                     "source_description": "Twitter Announces Their Funding, Calls Itself A Communication Utility",
-                    "raised_amount": {
-                        "$numberInt": "15000000"
-                    },
+                    "raised_amount": "15000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2008"
-                    },
-                    "funded_month": {
-                        "$numberInt": "5"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Union Square Ventures",
-                                "permalink": "union-square-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Bezos Expeditions",
-                                "permalink": "bezos-expeditions"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Spark Capital",
-                                "permalink": "spark-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Digital Garage",
-                                "permalink": "digital-garage"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Kevin",
-                                "last_name": "Rose",
-                                "permalink": "kevin-rose"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Timothy",
-                                "last_name": "Ferriss",
-                                "permalink": "tim-ferriss"
-                            }
-                        }
-                    ]
+                    "funded_year": "2008"
                 },
                 {
                     "id": {
@@ -1876,69 +1072,9 @@
                     "round_code": "c",
                     "source_url": "http://www.techcrunch.com/2009/02/13/twitter-raises-third-round-of-funding-from-benchmark-and-ivp/",
                     "source_description": "Twitter Raises $35 Million Series C From Benchmark and IVP, Others",
-                    "raised_amount": {
-                        "$numberInt": "35000000"
-                    },
+                    "raised_amount": "35000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "2"
-                    },
-                    "funded_day": {
-                        "$numberInt": "13"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Benchmark",
-                                "permalink": "benchmark-2"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Institutional Venture Partners",
-                                "permalink": "institutional-venture-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Spark Capital",
-                                "permalink": "spark-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Union Square Ventures",
-                                "permalink": "union-square-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Charles River Ventures",
-                                "permalink": "charles-river-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Digital Garage",
-                                "permalink": "digital-garage"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -1947,69 +1083,9 @@
                     "round_code": "d",
                     "source_url": "http://blog.twitter.com/2009/09/new-twitter-funding.html",
                     "source_description": "Twitter",
-                    "raised_amount": {
-                        "$numberInt": "100000000"
-                    },
+                    "raised_amount": "100000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "9"
-                    },
-                    "funded_day": {
-                        "$numberInt": "25"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Insight Venture Partners",
-                                "permalink": "insight-venture-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "T. Rowe Price",
-                                "permalink": "t-rowe-price"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Spark Capital",
-                                "permalink": "spark-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Benchmark",
-                                "permalink": "benchmark-2"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Institutional Venture Partners",
-                                "permalink": "institutional-venture-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Morgan Stanley",
-                                "permalink": "morgan-stanley"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -2018,20 +1094,9 @@
                     "round_code": "e",
                     "source_url": "http://www.altassets.net/private-equity-news/article/nz17642.html",
                     "source_description": "http://www.altassets.net/private-equity-news/article/nz17642.html",
-                    "raised_amount": {
-                        "$numberInt": "5166511"
-                    },
+                    "raised_amount": "5166511",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2010"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "8"
-                    },
-                    "investments": []
+                    "funded_year": "2010"
                 },
                 {
                     "id": {
@@ -2040,29 +1105,9 @@
                     "round_code": "f",
                     "source_url": "http://techcrunch.com/2010/12/15/the-smoke-has-cleared-twitter-now-worth-3-7-billion-gets-200-million-and-two-new-board-members/",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "200000000"
-                    },
+                    "raised_amount": "200000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2010"
-                    },
-                    "funded_month": {
-                        "$numberInt": "12"
-                    },
-                    "funded_day": {
-                        "$numberInt": "15"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Kleiner Perkins Caufield & Byers",
-                                "permalink": "kleiner-perkins-caufield-byers"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2010"
                 },
                 {
                     "id": {
@@ -2071,63 +1116,9 @@
                     "round_code": "g",
                     "source_url": "http://www.masshightech.com/stories/2011/08/01/daily15-Twitter-starts-buzz-with-reported-400M-VC-round.html",
                     "source_description": "Twitter starts buzz with reported $400M VC round",
-                    "raised_amount": {
-                        "$numberInt": "400000000"
-                    },
+                    "raised_amount": "400000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "8"
-                    },
-                    "funded_day": {
-                        "$numberInt": "2"
-                    },
-                    "investments": [
-                        {
-                            "company": {
-                                "name": "DST Global",
-                                "permalink": "dst-global"
-                            },
-                            "financial_org": null,
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "DFJ Growth",
-                                "permalink": "dfj-growth"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Alwaleed",
-                                "last_name": "Bin Talal",
-                                "permalink": "alwaleed-bin-talal"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Chris",
-                                "last_name": "Sacca",
-                                "permalink": "chris-sacca"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "T. Rowe Price",
-                                "permalink": "t-rowe-price"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2011"
                 },
                 {
                     "id": {
@@ -2136,20 +1127,9 @@
                     "round_code": "secondary_market",
                     "source_url": "http://techcrunch.com/2011/09/08/twitter-closing-its-400m-secondary-offering-tomorrow/",
                     "source_description": "Twitter Closing Its $400M Secondary Offering Tomorrow",
-                    "raised_amount": {
-                        "$numberInt": "400000000"
-                    },
+                    "raised_amount": "400000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "9"
-                    },
-                    "funded_day": {
-                        "$numberInt": "8"
-                    },
-                    "investments": []
+                    "funded_year": "2011"
                 }
             ]
         },
@@ -2171,56 +1151,9 @@
                     "round_code": "seed",
                     "source_url": "http://www.techcrunch.com/2006/11/14/stumbleupon-may-be-for-sale-50m/",
                     "source_description": "StumbleUpon May Be For Sale: 50M",
-                    "raised_amount": {
-                        "$numberInt": "1500000"
-                    },
+                    "raised_amount": "1500000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2005"
-                    },
-                    "funded_month": {
-                        "$numberInt": "12"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "First Round Capital",
-                                "permalink": "first-round-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Ram",
-                                "last_name": "Shriram",
-                                "permalink": "ram-shriram"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Mitch",
-                                "last_name": "Kapor",
-                                "permalink": "mitch-kapor"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Ron",
-                                "last_name": "Conway",
-                                "permalink": "ron-conway"
-                            }
-                        }
-                    ]
+                    "funded_year": "2005"
                 },
                 {
                     "id": {
@@ -2231,66 +1164,7 @@
                     "source_description": "StumbleUpon's founders buy service back from eBay",
                     "raised_amount": null,
                     "raised_currency_code": null,
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "4"
-                    },
-                    "funded_day": {
-                        "$numberInt": "13"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Accel Partners",
-                                "permalink": "accel-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sherpalo Ventures",
-                                "permalink": "sherpalo-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "August Capital",
-                                "permalink": "august-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "First Round Capital",
-                                "permalink": "first-round-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Garrett",
-                                "last_name": "Camp",
-                                "permalink": "garrett-camp"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "SV Angel",
-                                "permalink": "sv-angel"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -2299,70 +1173,9 @@
                     "round_code": "b",
                     "source_url": "http://techcrunch.com/2011/03/09/stumbleupon-stumbles-onto-17m-from-accel-and-others/",
                     "source_description": "Recommendation Engine StumbleUpon Stumbles Onto $17M From Accel, August Capital And Others",
-                    "raised_amount": {
-                        "$numberInt": "17000000"
-                    },
+                    "raised_amount": "17000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "3"
-                    },
-                    "funded_day": {
-                        "$numberInt": "9"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Accel Partners",
-                                "permalink": "accel-partners"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "August Capital",
-                                "permalink": "august-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "DAG Ventures",
-                                "permalink": "dag-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "First Round Capital",
-                                "permalink": "first-round-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sherpalo Ventures",
-                                "permalink": "sherpalo-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Garrett",
-                                "last_name": "Camp",
-                                "permalink": "garrett-camp"
-                            }
-                        }
-                    ]
+                    "funded_year": "2011"
                 },
                 {
                     "id": {
@@ -2373,26 +1186,7 @@
                     "source_description": "",
                     "raised_amount": null,
                     "raised_currency_code": null,
-                    "funded_year": {
-                        "$numberInt": "2001"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Brad",
-                                "last_name": "O'Neill",
-                                "permalink": "brad-oneill"
-                            }
-                        }
-                    ]
+                    "funded_year": "2001"
                 }
             ]
         },
@@ -2414,29 +1208,9 @@
                     "round_code": "seed",
                     "source_url": "http://www.techcrunch.com/2007/03/06/scribd-youtube-for-text-gets-300k/",
                     "source_description": "Scribd \"YouTube for Documents\" Gets $300K",
-                    "raised_amount": {
-                        "$numberInt": "12000"
-                    },
+                    "raised_amount": "12000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2006"
-                    },
-                    "funded_month": {
-                        "$numberInt": "6"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": {
-                                "name": "Y Combinator",
-                                "permalink": "y-combinator"
-                            },
-                            "financial_org": null,
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2006"
                 },
                 {
                     "id": {
@@ -2445,29 +1219,9 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "40000"
-                    },
+                    "raised_amount": "40000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "The Kinsey Hills Group",
-                                "permalink": "kinsey-hills-group"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -2476,73 +1230,9 @@
                     "round_code": "a",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "3710000"
-                    },
+                    "raised_amount": "3710000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "6"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "The Kinsey Hills Group",
-                                "permalink": "kinsey-hills-group"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Redpoint Ventures",
-                                "permalink": "redpoint-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Marc",
-                                "last_name": "Andreessen",
-                                "permalink": "marc-andreessen"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "David",
-                                "last_name": "Sacks",
-                                "permalink": "david-sacks"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Jeffrey",
-                                "last_name": "Jordan",
-                                "permalink": "jeffrey-jordan"
-                            }
-                        },
-                        {
-                            "company": null,
-                            "financial_org": null,
-                            "person": {
-                                "first_name": "Craig",
-                                "last_name": "Sherman",
-                                "permalink": "craig-sherman"
-                            }
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -2551,45 +1241,9 @@
                     "round_code": "b",
                     "source_url": "http://news.cnet.com/8301-13577_3-10126982-36.html",
                     "source_description": "Scribd chalks up another $9 million",
-                    "raised_amount": {
-                        "$numberInt": "9000000"
-                    },
+                    "raised_amount": "9000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2008"
-                    },
-                    "funded_month": {
-                        "$numberInt": "12"
-                    },
-                    "funded_day": {
-                        "$numberInt": "19"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Charles River Ventures",
-                                "permalink": "charles-river-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Redpoint Ventures",
-                                "permalink": "redpoint-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "The Kinsey Hills Group",
-                                "permalink": "kinsey-hills-group"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2008"
                 },
                 {
                     "id": {
@@ -2598,53 +1252,9 @@
                     "round_code": "c",
                     "source_url": "http://paidcontent.org/article/419-scribd-raises-13-million-to-support-mobile-moves-product-expansion/",
                     "source_description": "Scribd Raises $13 Million To Support Mobile Moves, Product Expansion ",
-                    "raised_amount": {
-                        "$numberInt": "13000000"
-                    },
+                    "raised_amount": "13000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "18"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "SVB Capital",
-                                "permalink": "svb-capital"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Redpoint Ventures",
-                                "permalink": "redpoint-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Charles River Ventures",
-                                "permalink": "charles-river-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "The Kinsey Hills Group",
-                                "permalink": "kinsey-hills-group"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2011"
                 }
             ]
         },
@@ -2666,53 +1276,9 @@
                     "round_code": "b",
                     "source_url": "http://www.socaltech.com/slacker_raises_4_m/s-0009377.html",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "40000000"
-                    },
+                    "raised_amount": "40000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "6"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Centennial Ventures",
-                                "permalink": "centennial-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Mission Ventures",
-                                "permalink": "mission-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sevin Rosen Funds",
-                                "permalink": "sevin-rosen-funds"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Rho Capital Partners",
-                                "permalink": "rho-capital-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -2721,45 +1287,9 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/03/14/new-music-service-slacker-has-very-broad-ambitions/",
                     "source_description": "",
-                    "raised_amount": {
-                        "$numberInt": "13500000"
-                    },
+                    "raised_amount": "13500000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2007"
-                    },
-                    "funded_month": {
-                        "$numberInt": "6"
-                    },
-                    "funded_day": {
-                        "$numberInt": "1"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Austin Ventures",
-                                "permalink": "austin-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Mission Ventures",
-                                "permalink": "mission-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sevin Rosen Funds",
-                                "permalink": "sevin-rosen-funds"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2007"
                 },
                 {
                     "id": {
@@ -2768,61 +1298,9 @@
                     "round_code": "unattributed",
                     "source_url": "http://www.paidcontent.org/entry/419-digital-music-service-slacker-gets-5-million-bridge-round/",
                     "source_description": "Digital Music Service Slacker Gets $5 Million Bridge Round",
-                    "raised_amount": {
-                        "$numberInt": "5000000"
-                    },
+                    "raised_amount": "5000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "1"
-                    },
-                    "funded_day": {
-                        "$numberInt": "29"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sevin Rosen Funds",
-                                "permalink": "sevin-rosen-funds"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Rho Capital Partners",
-                                "permalink": "rho-capital-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Centennial Ventures",
-                                "permalink": "centennial-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Mission Ventures",
-                                "permalink": "mission-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Austin Ventures",
-                                "permalink": "austin-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -2831,61 +1309,9 @@
                     "round_code": "d",
                     "source_url": "http://www.paidcontent.org/entry/419-radio-player-slacker-raises-10-million/",
                     "source_description": "Radio Player Slacker Raises $10 Million In Fourth Round",
-                    "raised_amount": {
-                        "$numberInt": "9600000"
-                    },
+                    "raised_amount": "9600000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2009"
-                    },
-                    "funded_month": {
-                        "$numberInt": "5"
-                    },
-                    "funded_day": {
-                        "$numberInt": "14"
-                    },
-                    "investments": [
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Sevin Rosen Funds",
-                                "permalink": "sevin-rosen-funds"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Rho Capital Partners",
-                                "permalink": "rho-capital-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Centennial Ventures",
-                                "permalink": "centennial-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Mission Ventures",
-                                "permalink": "mission-ventures"
-                            },
-                            "person": null
-                        },
-                        {
-                            "company": null,
-                            "financial_org": {
-                                "name": "Austin Ventures",
-                                "permalink": "austin-ventures"
-                            },
-                            "person": null
-                        }
-                    ]
+                    "funded_year": "2009"
                 },
                 {
                     "id": {
@@ -2894,20 +1320,9 @@
                     "round_code": "debt_round",
                     "source_url": "http://www.sec.gov/Archives/edgar/data/1400813/000140081310000001/xslFormDX01/primary_doc.xml",
                     "source_description": "SEC D",
-                    "raised_amount": {
-                        "$numberInt": "2000000"
-                    },
+                    "raised_amount": "2000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2010"
-                    },
-                    "funded_month": {
-                        "$numberInt": "2"
-                    },
-                    "funded_day": {
-                        "$numberInt": "3"
-                    },
-                    "investments": []
+                    "funded_year": "2010"
                 },
                 {
                     "id": {
@@ -2916,20 +1331,9 @@
                     "round_code": "debt_round",
                     "source_url": "http://techcrunch.com/2011/02/10/slacker-raises-3-million-to-equip-more-phones-cars-with-personal-radio-service/",
                     "source_description": "Slacker Raises $3 Million To Equip More Phones, Cars With Personal Radio Service",
-                    "raised_amount": {
-                        "$numberInt": "3000000"
-                    },
+                    "raised_amount": "3000000",
                     "raised_currency_code": "USD",
-                    "funded_year": {
-                        "$numberInt": "2011"
-                    },
-                    "funded_month": {
-                        "$numberInt": "2"
-                    },
-                    "funded_day": {
-                        "$numberInt": "10"
-                    },
-                    "investments": []
+                    "funded_year": "2011"
                 }
             ]
         }
