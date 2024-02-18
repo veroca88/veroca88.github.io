@@ -1,13 +1,864 @@
 {
+    "results": [
+        {
+            "question": "What is the supreme law of the land?",
+            "correct_answer": "The Constitution.",
+            "incorrect_answers": [
+                "The Bill of Rights.",
+                "Civil Rights.",
+                "The rule of Law."
+            ]
+        },
+        {
+            "question": "What does the constitution do?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Set up the government.",
+                "Define the government.",
+                "Protect the basic rights of Americans."
+            ]
+        },
+        {
+            "question": "The idea of self-government is in the first three words of the Constitution. What are these words?",
+            "correct_answer": "We the people.",
+            "incorrect_answers": [
+                "All the citizens.",
+                "United State population.",
+                "Only the government."
+            ]
+        },
+        {
+            "question": "What is an amendment?",
+            "correct_answer": "A change or addition (to the constitution).",
+            "incorrect_answers": [
+                "Preservation (to the constitution).",
+                "Substraction (to the constitution)."
+            ]
+        },
+        {
+            "question": "What do we call the first 10 amendments to the constitution?",
+            "correct_answer": "The Bill of Rights.",
+            "incorrect_answers": [
+                "The Constitution.",
+                "The rule of Law.",
+                "Civil Rights."
+            ]
+        },
+        {
+            "question": "What is a right or freedom from the first amendment?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Speech.",
+                "Religion.",
+                "Press.",
+                "Assembly.",
+                "Petition of government."
+            ]
+        },
+        {
+            "question": "How many amendments does the constitution have?",
+            "correct_answer": "27",
+            "incorrect_answers": [
+                "16",
+                "29",
+                "21"
+            ]
+        },
+        {
+            "question": "What did the declaration of independence do?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Announce our independance from Great Britain.",
+                "Declare our independance from Great Britain. ",
+                "Said United States is free from Great Britain."
+            ]
+        },
+        {
+            "question": "What are the rights on the declaration of independence",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Life.",
+                "Liberty.",
+                "Pursuit of hapiness."
+            ]
+        },
+        {
+            "question": "What is the freedom of religion?",
+            "correct_answer": "You can practice any religion, o not practice a religion.",
+            "incorrect_answers": [
+                "You have to be part of any religion.",
+                "You can choose between Jewish, Christian or Catholic."
+            ]
+        },
+        {
+            "question": "What is the economic system in the United States?",
+            "correct_answer": "Capitalist economy.",
+            "incorrect_answers": [
+                "Socialist economy.",
+                "Traditional economy."
+            ]
+        },
+        {
+            "question": "What is the ‘rule of law’?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Everyone must follow the law.",
+                "Leaders must obey the law.",
+                "Government must obey the law.",
+                "No one is above the law."
+            ]
+        },
+        {
+            "question": "Name one branch or part of the government",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The attorney General.",
+                "The speaker of the house.",
+                "The White House."
+            ]
+        },
+        {
+            "question": "What stops one branch of government from becoming too powerful?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Checks and balances.",
+                "Separation of powers."
+            ]
+        },
+        {
+            "question": "Who is in charge of the executive branch?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The vice-president.",
+                "The speaker of the house.",
+                "The congress."
+            ]
+        },
+        {
+            "question": "Who makes federal laws?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Congress.",
+                "Senate and House of representatives.",
+                "U.S. Legislature."
+            ]
+        },
+        {
+            "question": "What are the two parts of the United State congress?",
+            "correct_answer": "Senate and House of representatives.",
+            "incorrect_answers": [
+                "The President and the Vice-president.",
+                "Secretary of Defense and Secretary of State."
+            ]
+        },
+        {
+            "question": "How many US senators are there?",
+            "correct_answer": "100.",
+            "incorrect_answers": [
+                "50.",
+                "435.",
+                "180."
+            ]
+        },
+        {
+            "question": "We elect US Senators for how many years?",
+            "correct_answer": "6 years.",
+            "incorrect_answers": [
+                "2 years.",
+                "4 years."
+            ]
+        },
+        {
+            "question": "We elect a U.S representative for how many years?",
+            "correct_answer": "2 years.",
+            "incorrect_answers": [
+                "6 years.",
+                "4 years."
+            ]
+        },
+        {
+            "question": "The house of representatives has how many voting members?",
+            "correct_answer": "435.",
+            "incorrect_answers": [
+                "100.",
+                "180.",
+                "50."
+            ]
+        },
+        {
+            "question": "Who does the U.S Senator represent?",
+            "correct_answer": "All people of the state.",
+            "incorrect_answers": [
+                "All U.S. citizens.",
+                "All people in the same political party."
+            ]
+        },
+        {
+            "question": "Why do some states have more representatives than other states?",
+            "correct_answer": "Because of state's population.",
+            "incorrect_answers": [
+                "Because they are the original colonies.",
+                "Because of the size of the state."
+            ]
+        },
+        {
+            "question": "What does the constitution do?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Set up the government.",
+                "Define the government.",
+                "Protect the basic rights of Americans."
+            ]
+        },
+        {
+            "question": "We elect president for how many years?",
+            "correct_answer": "4 years.",
+            "incorrect_answers": [
+                "2 years.",
+                "6 years."
+            ]
+        },
+        {
+            "question": "In what month do we vote for president?",
+            "correct_answer": "November.",
+            "incorrect_answers": [
+                "June.",
+                "October."
+            ]
+        },
+        {
+            "question": "If the president can no longer serve, who becomes president?",
+            "correct_answer": "The Vice-president.",
+            "incorrect_answers": [
+                "The Speaker of the house.",
+                "The Chief justice."
+            ]
+        },
+        {
+            "question": "If the president and the vice president can no longer serve, who becomes president?",
+            "correct_answer": "The Speaker of the house.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General."
+            ]
+        },
+        {
+            "question": "Who is the commander in chief of the military?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "Who signs bills to become laws?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "Who vetoes bills?",
+            "correct_answer": "The president.",
+            "incorrect_answers": [
+                "The Chief justice.",
+                "Attorney General.",
+                "The Speaker of the house."
+            ]
+        },
+        {
+            "question": "What does the president cabinet do?",
+            "correct_answer": "Advices the president.",
+            "incorrect_answers": [
+                "Vetoes bills.",
+                "Sign bills to become laws."
+            ]
+        },
+        {
+            "question": "What are the Cabinet level positions?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Secretary of Agriculture.",
+                "Secretary of Commerce",
+                "Secretary of Defense",
+                "Secretary of Education",
+                "Secretary of Energy",
+                "Secretary of Health and Human Services",
+                "Secretary of Homeland Security",
+                "Secretary of Housing and Urban Development",
+                "Secretary of the Interior",
+                "Secretary of Labor",
+                "Secretary of State",
+                "Secretary of Transportation",
+                "Secretary of the Treasury",
+                "Secretary of Veterans Affairs",
+                "Attorney General",
+                "Vice President"
+            ]
+        },
+        {
+            "question": "What does the judicial branch do?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Reviews the laws.",
+                "Explains the laws.",
+                "Resolves disputes.",
+                "Decides if a law goes against the constitution."
+            ]
+        },
+        {
+            "question": "What is the highest court in the United States?",
+            "correct_answer": "The supreme court.",
+            "incorrect_answers": [
+                "The congress.",
+                "US District court.",
+                "The White House."
+            ]
+        },
+        {
+            "question": "Under our Constitution, some powers belong to the federal government. What are the power of the federal government? ",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "To print money.",
+                "To declare war.",
+                "To create an army.",
+                "To make treaties."
+            ]
+        },
+        {
+            "question": "Under our Constitution, some powers belong to the states. What is one power of the states?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Provide schooling and education.",
+                "Provide protection (police).",
+                "Provide safety (fire departments).",
+                "Give a driver’s license.",
+                "Approve zoning and land use"
+            ]
+        },
+        {
+            "question": "What are the two major political parties in the United States?",
+            "correct_answer": "Democratic and Republican.",
+            "incorrect_answers": [
+                "Progressive and Independence.",
+                "Green and Conservative.",
+                "Socialist and Libertarian."
+            ]
+        },
+        {
+            "question": "There are four amendments to the Constitution about who can vote. Describe one of them.",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Citizens 18 and older can vote.",
+                "You don’t have to pay (a poll tax) to vote.",
+                "Any citizen can vote. (Women and men can vote.)",
+                "A male citizen of any race (can vote)."
+            ]
+        },
+        {
+            "question": "What are the responsibilities that is only for United States citizens?",
+            "correct_answer": "Serve on a jury and vote in federal election.",
+            "incorrect_answers": [
+                "Join to a political party and help with a campaign.",
+                "Give an elected official your opinion on an issue and write a newspaper.",
+                "Run for office and join to a community group."
+            ]
+        },
+        {
+            "question": "Name the right only for United States citizens.",
+            "correct_answer": "Vote in federal elections and run for federal office.",
+            "incorrect_answers": [
+                "Join to a political party and help with a campaign.",
+                "Give an elected official your opinion on an issue and write a newspaper.",
+                "Run for office and join to a community group."
+            ]
+        },
+        {
+            "question": "What are the rights of everyone living in the United States?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Freedom to speech.",
+                "Freedom to religion.",
+                "Freedom to expression.",
+                "Freedom to assembly.",
+                "Freedom to petition the government.",
+                "The right to bear arms."
+            ]
+        },
+        {
+            "question": "What do we show loyalty to when we say the Pledge of Allegiance? ",
+            "correct_answer": "The United States, the flag.",
+            "incorrect_answers": [
+                "The president of the United States.",
+                "The political party.",
+                "The white house."
+            ]
+        },
+        {
+            "question": "What is one promise you make when you become a United States citizen?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Give up loyalty to other countries.",
+                "Defend the Constitution and laws of the United States.",
+                "Obey the laws of the United States.",
+                "Serve in the U.S. military (if needed).",
+                "Serve (do important work for) the nation (if needed).",
+                "Be loyal to the United States."
+            ]
+        },
+        {
+            "question": "How old do citizens have to be to vote for President?",
+            "correct_answer": "18 and older.",
+            "incorrect_answers": [
+                "23 and older.",
+                "16 and older."
+            ]
+        },
+        {
+            "question": "What are the ways that Americans can participate in their democracy?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Vote.",
+                "Join to a political party.",
+                "Help with a campaign.",
+                "Join a civic group.",
+                "Join to a community group.",
+                "Give an elected official your opinion on an issue.",
+                "Call Senators and Representatives",
+                "Publicly support or oppose an issue or policy",
+                "Write a newspaper.",
+                "Run for office."
+            ]
+        },
+        {
+            "question": "When is the last day you can send in federal income tax forms?",
+            "correct_answer": "April 15.",
+            "incorrect_answers": [
+                "February 15.",
+                "May 15."
+            ]
+        },
+        {
+            "question": "When must all men register for the Selective Service?",
+            "correct_answer": "Between 18 and 26 years.",
+            "incorrect_answers": [
+                "Between 16 and 26 years.",
+                "Between 18 and 22 years.",
+                "Between 16 and 22 years."
+            ]
+        },
+        {
+            "question": "What is one reason colonists came to America?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Freedom.",
+                "Political liberty.",
+                "Religious freedom",
+                "Economic opportunity",
+                "Practice their religion",
+                "Escape persecution"
+            ]
+        },
+        {
+            "question": "Who lived in America before the Europeans arrived?",
+            "correct_answer": "Native Americans.",
+            "incorrect_answers": [
+                "Lawful immigrants.",
+                "Naturalized citizens.",
+                "Temporary residents."
+            ]
+        },
+        {
+            "question": "What group of people was taken to America and sold as slaves?",
+            "correct_answer": "People from Africa.",
+            "incorrect_answers": [
+                "People from Mexico.",
+                "People from Cuba.",
+                "People from Spain."
+            ]
+        },
+        {
+            "question": "Why did the colonists fight the British?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Because of high taxes (taxation without representation).",
+                "Because the British army stayed in their houses (boarding, quartering).",
+                "Because they did't have self-government."
+            ]
+        },
+        {
+            "question": "Who wrote the Declaration of Independence? ",
+            "correct_answer": "Thomas Jefferson.",
+            "incorrect_answers": [
+                "George Washington.",
+                "Stephen Langton.",
+                "James Madison."
+            ]
+        },
+        {
+            "question": "When was the Declaration of Independence adopted?",
+            "correct_answer": "July 4, 1776.",
+            "incorrect_answers": [
+                "July 4, 1787.",
+                "July 4, 1778."
+            ]
+        },
+        {
+            "question": "There were 13 original states. Name three",
+            "correct_answer": "New York, New Jersey, Georgia.",
+            "incorrect_answers": [
+                "California, Wyoming, South Dakota.",
+                "Florida, Montana, Ohio.",
+                "Hawaii, New Mexico, Nevada"
+            ]
+        },
+        {
+            "question": "What happened at the Constitutional Convention?",
+            "correct_answer": "The constitution was written.",
+            "incorrect_answers": [
+                "The declaration of Liberty.",
+                "Declare the war.",
+                "The president was elected."
+            ]
+        },
+        {
+            "question": "When was the Constitution written?",
+            "correct_answer": "1787.",
+            "incorrect_answers": [
+                "1776.",
+                "1786."
+            ]
+        },
+        {
+            "question": "The Federalist Papers supported the passage of the U.S. Constitution. Name the writers.",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Alexander Hamilton.",
+                "James Madison.",
+                "Johm Jay",
+                "Publius"
+            ]
+        },
+        {
+            "question": "What is Benjamin Franklin is famous for? ",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "U.S. diplomat.",
+                "First Postmaster General of United States.",
+                "Writer of “Poor Richard’s Almanac”.",
+                "Started the first free libraries"
+            ]
+        },
+        {
+            "question": "Who is the “Father of Our Country”? ",
+            "correct_answer": "George Washington.",
+            "incorrect_answers": [
+                "Benjamin Franklin.",
+                "Thomas Jefferson.",
+                "John Adams."
+            ]
+        },
+        {
+            "question": "Who was the first President?",
+            "correct_answer": "George Washington.",
+            "incorrect_answers": [
+                "Benjamin Franklin.",
+                "Thomas Jefferson.",
+                "John Adams."
+            ]
+        },
+        {
+            "question": "What territory did the United States buy from France in 1803? ",
+            "correct_answer": "Louisiana.",
+            "incorrect_answers": [
+                "Maine.",
+                "Idaho.",
+                "Wyoming."
+            ]
+        },
+        {
+            "question": "Name wars fought by the United States in the 1800s.?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "War of 1812.",
+                "Mexican-American War.",
+                "Civil War",
+                "Spanish-American War"
+            ]
+        },
+        {
+            "question": "Name the U.S. war between the North and the South?",
+            "correct_answer": "Civil War.",
+            "incorrect_answers": [
+                "War of 1812.",
+                "Mexican-American War.",
+                "Spanish-American War"
+            ]
+        },
+        {
+            "question": "Name problem that led to the Civil War?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Slavery.",
+                "Economy reasons.",
+                "States rights."
+            ]
+        },
+        {
+            "question": "What was importants things that Abraham Lincoln did?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Led the United States during the Civil war.",
+                "Freed the slaves (Emancipation Proclamation).",
+                "Saved (or preserved) the Union."
+            ]
+        },
+        {
+            "question": "What did the Emancipation Proclamation do? ",
+            "correct_answer": "Freed the slaves.",
+            "incorrect_answers": [
+                "Abolished high taxes.",
+                "Declare the war.",
+                "Saved the Union."
+            ]
+        },
+        {
+            "question": "What did Susan B. Anthony do? ",
+            "correct_answer": "Fought for women's rights.",
+            "incorrect_answers": [
+                "Fought the war in the 1900s.",
+                "Saved the Union.",
+                "Abolished high taxes."
+            ]
+        },
+        {
+            "question": "What war(s) fought by the United States in the 1900s?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "War World I.",
+                "War World II.",
+                "Korean War.",
+                "Vietnam War",
+                "(Persian) Gulf War"
+            ]
+        },
+        {
+            "question": " Who was President during World War I? ",
+            "correct_answer": "Woodrow Wilson.",
+            "incorrect_answers": [
+                "William H. Taft.",
+                "Warren G. Harding.",
+                "Calvin Coolidge."
+            ]
+        },
+        {
+            "question": "Who was President during the Great Depression and World War II?",
+            "correct_answer": "Franklin Roosevelt.",
+            "incorrect_answers": [
+                "Herbert Hoover.",
+                "Harry S Truman.",
+                "John F. Kennedy",
+                "Calvin Coolidge"
+            ]
+        },
+        {
+            "question": "Who did the United States fight in World War II?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Italy.",
+                "Germany.",
+                "Japan."
+            ]
+        },
+        {
+            "question": "Before he was President, Eisenhower was a general. What war was he in?",
+            "correct_answer": "War War II.",
+            "incorrect_answers": [
+                "War World I.",
+                "Korean War.",
+                "Vietnam War",
+                "(Persian) Gulf War"
+            ]
+        },
+        {
+            "question": "During the Cold War, what was the main concern of the United States?",
+            "correct_answer": "Comunism.",
+            "incorrect_answers": [
+                "Poverty.",
+                "Lose the war.",
+                "Development of nuclear technology."
+            ]
+        },
+        {
+            "question": "What movement tried to end racial discrimination?",
+            "correct_answer": "The civic rights movement.",
+            "incorrect_answers": [
+                "Woman's missionary movement.",
+                "The social gospel movement.",
+                "Ecumenical movement."
+            ]
+        },
+        {
+            "question": "What did Martin Luther King, Jr. do?",
+            "correct_answer": "Fought for civil rights.",
+            "incorrect_answers": [
+                "Join to a political party.",
+                "Write a newspaper."
+            ]
+        },
+        {
+            "question": "What major event happened on September 11, 2001, in the United States?",
+            "correct_answer": "Terrosrist attacked the United States.",
+            "incorrect_answers": [
+                "Security at many airports worldwide was escalated to deter similar terrorist.",
+                "Cockpit doors on many aircraft are reinforced and bulletproof to prevent unauthorized access.",
+                "Newer body scanners have been introduced in airports."
+            ]
+        },
+        {
+            "question": " Name one American Indian tribe in the United States?",
+            "correct_answer": "Cherokee.",
+            "incorrect_answers": [
+                "Inca.",
+                "Maya.",
+                "Crew."
+            ]
+        },
+        {
+            "question": "What are the two longest rivers in the United States?",
+            "correct_answer": "Missouri and Mississippi.",
+            "incorrect_answers": [
+                "Missouri and Yukon.",
+                "Mississippi and Rio Grande.",
+                "Missouri and Arkansas river."
+            ]
+        },
+        {
+            "question": "What ocean is on the West Coast of the United States?",
+            "correct_answer": "Pacific Ocean.",
+            "incorrect_answers": [
+                "Atlantic Ocean.",
+                "Artic Ocean.",
+                "Indian Ocean."
+            ]
+        },
+        {
+            "question": "What ocean is on the East Coast of the United States?",
+            "correct_answer": "Atlantic Ocean.",
+            "incorrect_answers": [
+                "Pacific Ocean.",
+                "Artic Ocean.",
+                "Indian Ocean."
+            ]
+        },
+        {
+            "question": "Name U.S. territory?",
+            "correct_answer": "All of the mentioned.",
+            "incorrect_answers": [
+                "Puerto Rico.",
+                "Virgin Islands.",
+                "American Samoa.",
+                "Northern Mariana Islands.",
+                "Guam"
+            ]
+        },
+        {
+            "question": "Name one state that borders Canada?",
+            "correct_answer": "Montana.",
+            "incorrect_answers": [
+                "Nebraska.",
+                "Massachusetts.",
+                "Illinois."
+            ]
+        },
+        {
+            "question": "Name one state that borders Mexico?",
+            "correct_answer": "California.",
+            "incorrect_answers": [
+                "Louisiana.",
+                "Nevada.",
+                "Colorado."
+            ]
+        },
+        {
+            "question": "What is the capital of the United States?",
+            "correct_answer": "Washington, D.C.",
+            "incorrect_answers": [
+                "New York.",
+                "California.",
+                "Kansas."
+            ]
+        },
+        {
+            "question": "Where is the Statue of Liberty?",
+            "correct_answer": "Liberty Island.",
+            "incorrect_answers": [
+                "Golden Isles.",
+                "Hilton Head.",
+                "Amelia Island"
+            ]
+        },
+        {
+            "question": "Why does the flag have 13 stripes?",
+            "correct_answer": "Because there were 13 original colonies.",
+            "incorrect_answers": [
+                "Because represent the Founding Fathers.",
+                "Because of the British Army.",
+                "Because of the number of members of President's Cabinet."
+            ]
+        },
+        {
+            "question": "Why does the flag have 50 stars?",
+            "correct_answer": "Because there is one star for each state.",
+            "incorrect_answers": [
+                "Because represent the Founding Fathers.",
+                "Because of the British Army.",
+                "Because of the number of members of President's Cabinet."
+            ]
+        },
+        {
+            "question": "What is the name of the national anthem?",
+            "correct_answer": "The Star-Spangled Banner.",
+            "incorrect_answers": [
+                "God bless America.",
+                "This land is your land.",
+                "America the beautiful."
+            ]
+        },
+        {
+            "question": "When do we celebrate Independence Day?",
+            "correct_answer": "July 4th.",
+            "incorrect_answers": [
+                "December 25th.",
+                "May 5th.",
+                "January 1st."
+            ]
+        }
+    ],
     "companies": [
         {
-            "_id": "60b57252ec22733cfa368d6e",
+            "_id": {
+                "$oid": "60b57252ec22733cfa368d6e"
+            },
             "name": "Wetpaint",
             "homepage_url": "http://wetpaint-inc.com",
             "twitter_username": "BachelrWetpaint",
             "category_code": "web",
-            "number_of_employees": "47",
-            "founded_year": "2005",
+            "number_of_employees": {
+                "$numberInt": "47"
+            },
+            "founded_year": {
+                "$numberInt": "2005"
+            },
+            "founded_month": {
+                "$numberInt": "10"
+            },
+            "founded_day": {
+                "$numberInt": "17"
+            },
             "description": "Technology Platform Company",
             "total_money_raised": "$39.8M",
             "funding_rounds": [
@@ -18,9 +869,37 @@
                     "round_code": "a",
                     "source_url": "http://seattlepi.nwsource.com/business/246734_wiki02.html",
                     "source_description": "",
-                    "raised_amount": "5250000",
+                    "raised_amount": {
+                        "$numberInt": "5250000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2005",
+                    "funded_year": {
+                        "$numberInt": "2005"
+                    },
+                    "funded_month": {
+                        "$numberInt": "10"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Frazier Technology Ventures",
+                                "permalink": "frazier-technology-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Trinity Ventures",
+                                "permalink": "trinity-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -29,20 +908,42 @@
                     "round_code": "b",
                     "source_url": "http://pulse2.com/2007/01/09/wiki-builder-website-wetpaint-welcomes-95m-funding/",
                     "source_description": "",
-                    "raised_amount": "9500000",
+                    "raised_amount": {
+                        "$numberInt": "9500000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    }
                 }
             ]
         },
         {
-            "_id": "60b57464ec22733cfa368d70",
+            "_id": {
+                "$oid": "60b57464ec22733cfa368d70"
+            },
             "name": "Facebook",
             "homepage_url": "http://facebook.com",
             "twitter_username": "facebook",
             "category_code": "social",
-            "number_of_employees": "5299",
-            "founded_year": "2004",
+            "number_of_employees": {
+                "$numberInt": "5299"
+            },
+            "founded_year": {
+                "$numberInt": "2004"
+            },
+            "founded_month": {
+                "$numberInt": "2"
+            },
+            "founded_day": {
+                "$numberInt": "1"
+            },
             "description": "Social network",
             "total_money_raised": "$2.43B",
             "funding_rounds": [
@@ -53,9 +954,39 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": "500000",
+                    "raised_amount": {
+                        "$numberInt": "500000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2004"
+                    "funded_year": {
+                        "$numberInt": "2004"
+                    },
+                    "funded_month": {
+                        "$numberInt": "9"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Peter",
+                                "last_name": "Thiel",
+                                "permalink": "peter-thiel"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Reid",
+                                "last_name": "Hoffman",
+                                "permalink": "reid-hoffman"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -64,9 +995,47 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/11/02/jim-breyer-extra-500-million-round-for-facebook-a-total-fiction/",
                     "source_description": "Jim Breyer: Extra $500 Million Round For Facebook A \"Total Fiction\"",
-                    "raised_amount": "12700000",
+                    "raised_amount": {
+                        "$numberInt": "12700000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2005"
+                    "funded_year": {
+                        "$numberInt": "2005"
+                    },
+                    "funded_month": {
+                        "$numberInt": "5"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Accel Partners",
+                                "permalink": "accel-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Mark",
+                                "last_name": "Pincus",
+                                "permalink": "mark-pincus"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Reid",
+                                "last_name": "Hoffman",
+                                "permalink": "reid-hoffman"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -75,9 +1044,53 @@
                     "round_code": "b",
                     "source_url": "http://www.facebook.com/press/info.php?factsheet",
                     "source_description": "Facebook Funding",
-                    "raised_amount": "27500000",
+                    "raised_amount": {
+                        "$numberInt": "27500000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2006"
+                    "funded_year": {
+                        "$numberInt": "2006"
+                    },
+                    "funded_month": {
+                        "$numberInt": "4"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Greylock Partners",
+                                "permalink": "greylock"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Meritech Capital Partners",
+                                "permalink": "meritech-capital-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Founders Fund",
+                                "permalink": "founders-fund"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "SV Angel",
+                                "permalink": "sv-angel"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -86,9 +1099,29 @@
                     "round_code": "c",
                     "source_url": "http://www.microsoft.com/en-us/news/press/2007/oct07/10-24FacebookPR.aspx",
                     "source_description": "Facebook and Microsoft Expand Strategic Alliance",
-                    "raised_amount": "240000000",
+                    "raised_amount": {
+                        "$numberInt": "240000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "10"
+                    },
+                    "funded_day": {
+                        "$numberInt": "24"
+                    },
+                    "investments": [
+                        {
+                            "company": {
+                                "name": "Microsoft",
+                                "permalink": "microsoft"
+                            },
+                            "financial_org": null,
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -97,9 +1130,38 @@
                     "round_code": "c",
                     "source_url": "http://venturebeat.com/2007/11/30/facebook-gets-60m-from-hong-kong-billionaire-li-ka-shing/",
                     "source_description": "Facebook gets $60M from Hong Kong billionaire Li Ka-shing",
-                    "raised_amount": "60000000",
+                    "raised_amount": {
+                        "$numberInt": "60000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "11"
+                    },
+                    "funded_day": {
+                        "$numberInt": "30"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Li",
+                                "last_name": "Ka-shing",
+                                "permalink": "li-ka-shing"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Horizons Ventures",
+                                "permalink": "horizons-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -108,9 +1170,29 @@
                     "round_code": "c",
                     "source_url": "http://www.techcrunch.com/2008/01/15/breaking-samwer-brothers-invest-in-facebook/",
                     "source_description": "",
-                    "raised_amount": "15000000",
+                    "raised_amount": {
+                        "$numberInt": "15000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2008"
+                    "funded_year": {
+                        "$numberInt": "2008"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "15"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "European Founders Fund",
+                                "permalink": "european-founders-fund"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -119,9 +1201,29 @@
                     "round_code": "debt_round",
                     "source_url": "http://www.businessweek.com/technology/content/may2008/tc2008059_855064.htm",
                     "source_description": "",
-                    "raised_amount": "100000000",
+                    "raised_amount": {
+                        "$numberInt": "100000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2008"
+                    "funded_year": {
+                        "$numberInt": "2008"
+                    },
+                    "funded_month": {
+                        "$numberInt": "5"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "TriplePoint Capital",
+                                "permalink": "triplepoint-capital"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -130,9 +1232,297 @@
                     "round_code": "c",
                     "source_url": "http://www.paidcontent.org/entry/419-facebook-investor-li-ka-shing-increasing-stake-in-facebook/",
                     "source_description": "Updated: Facebook Investor Li Ka-Shing Upping Stake To $120 Million: Report",
-                    "raised_amount": "60000000",
+                    "raised_amount": {
+                        "$numberInt": "60000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2013"
+                    "funded_year": {
+                        "created_at": {
+                            "$date": {
+                                "$numberLong": "1180075887000"
+                            }
+                        },
+                        "updated_at": "Sun Dec 08 07:15:44 UTC 2013",
+                        "overview": "<p>Wetpaint is a technology platform company that uses its proprietary state-of-the-art technology and expertise in social media to build and monetize audiences for digital publishers. Wetpaint’s own online property, Wetpaint Entertainment, an entertainment news site that attracts more than 12 million unique visitors monthly and has over 2 million Facebook fans, is a proof point to the company’s success in building and engaging audiences. Media companies can license Wetpaint’s platform which includes a dynamic playbook tailored to their individual needs and comprehensive training. Founded by Internet pioneer Ben Elowitz, and with offices in New York and Seattle, Wetpaint is backed by Accel Partners, the investors behind Facebook.</p>",
+                        "image": {
+                            "available_sizes": [
+                                [
+                                    [
+                                        {
+                                            "$numberInt": "150"
+                                        },
+                                        {
+                                            "$numberInt": "75"
+                                        }
+                                    ],
+                                    "assets/images/resized/0000/3604/3604v14-max-150x150.jpg"
+                                ],
+                                [
+                                    [
+                                        {
+                                            "$numberInt": "250"
+                                        },
+                                        {
+                                            "$numberInt": "125"
+                                        }
+                                    ],
+                                    "assets/images/resized/0000/3604/3604v14-max-250x250.jpg"
+                                ],
+                                [
+                                    [
+                                        {
+                                            "$numberInt": "450"
+                                        },
+                                        {
+                                            "$numberInt": "225"
+                                        }
+                                    ],
+                                    "assets/images/resized/0000/3604/3604v14-max-450x450.jpg"
+                                ]
+                            ]
+                        },
+                        "products": [
+                            {
+                                "name": "Wikison Wetpaint",
+                                "permalink": "wetpaint-wiki"
+                            },
+                            {
+                                "name": "Wetpaint Social Distribution System",
+                                "permalink": "wetpaint-social-distribution-system"
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "is_past": false,
+                                "title": "Co-Founder and VP, Social and Audience Development",
+                                "person": {
+                                    "first_name": "Michael",
+                                    "last_name": "Howell",
+                                    "permalink": "michael-howell"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "Co-Founder/CEO/Board of Directors",
+                                "person": {
+                                    "first_name": "Ben",
+                                    "last_name": "Elowitz",
+                                    "permalink": "ben-elowitz"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "COO/Board of Directors",
+                                "person": {
+                                    "first_name": "Rob",
+                                    "last_name": "Grady",
+                                    "permalink": "rob-grady"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "SVP, Strategy and Business Development",
+                                "person": {
+                                    "first_name": "Chris",
+                                    "last_name": "Kollas",
+                                    "permalink": "chris-kollas"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "Board",
+                                "person": {
+                                    "first_name": "Theresia",
+                                    "last_name": "Ranzetta",
+                                    "permalink": "theresia-ranzetta"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "Board Member",
+                                "person": {
+                                    "first_name": "Gus",
+                                    "last_name": "Tai",
+                                    "permalink": "gus-tai"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "Board",
+                                "person": {
+                                    "first_name": "Len",
+                                    "last_name": "Jordan",
+                                    "permalink": "len-jordan"
+                                }
+                            },
+                            {
+                                "is_past": false,
+                                "title": "Head of Technology and Product",
+                                "person": {
+                                    "first_name": "Alex",
+                                    "last_name": "Weinstein",
+                                    "permalink": "alex-weinstein"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "CFO",
+                                "person": {
+                                    "first_name": "Bert",
+                                    "last_name": "Hogue",
+                                    "permalink": "bert-hogue"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "CFO/ CRO",
+                                "person": {
+                                    "first_name": "Brian",
+                                    "last_name": "Watkins",
+                                    "permalink": "brian-watkins"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "Senior Vice President, Marketing",
+                                "person": {
+                                    "first_name": "Rob",
+                                    "last_name": "Grady",
+                                    "permalink": "rob-grady"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "VP, Technology and Product",
+                                "person": {
+                                    "first_name": "Werner",
+                                    "last_name": "Koepf",
+                                    "permalink": "werner-koepf"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "VP Marketing",
+                                "person": {
+                                    "first_name": "Kevin",
+                                    "last_name": "Flaherty",
+                                    "permalink": "kevin-flaherty"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "VP User Experience",
+                                "person": {
+                                    "first_name": "Alex",
+                                    "last_name": "Berg",
+                                    "permalink": "alex-berg"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "VP Engineering",
+                                "person": {
+                                    "first_name": "Steve",
+                                    "last_name": "McQuade",
+                                    "permalink": "steve-mcquade"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "Executive Editor",
+                                "person": {
+                                    "first_name": "Susan",
+                                    "last_name": "Mulcahy",
+                                    "permalink": "susan-mulcahy"
+                                }
+                            },
+                            {
+                                "is_past": true,
+                                "title": "VP Business Development",
+                                "person": {
+                                    "first_name": "Chris",
+                                    "last_name": "Kollas",
+                                    "permalink": "chris-kollas"
+                                }
+                            }
+                        ],
+                        "competitions": [
+                            {
+                                "competitor": {
+                                    "name": "Wikia",
+                                    "permalink": "wikia"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "JotSpot",
+                                    "permalink": "jotspot"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "Socialtext",
+                                    "permalink": "socialtext"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "Ning by Glam Media",
+                                    "permalink": "ning"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "Soceeo",
+                                    "permalink": "soceeo"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "Yola",
+                                    "permalink": "yola"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "SocialGO",
+                                    "permalink": "socialgo"
+                                }
+                            },
+                            {
+                                "competitor": {
+                                    "name": "IslamNor",
+                                    "permalink": "islamnor"
+                                }
+                            }
+                        ],
+                        "$numberInt": "2008"
+                    },
+                    "funded_month": {
+                        "$numberInt": "3"
+                    },
+                    "funded_day": {
+                        "$numberInt": "27"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Li",
+                                "last_name": "Ka-shing",
+                                "permalink": "li-ka-shing"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Horizons Ventures",
+                                "permalink": "horizons-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -141,9 +1531,29 @@
                     "round_code": "d",
                     "source_url": "http://www.techcrunch.com/2009/05/26/facebook-takes-that-200-million-investment-from-the-russians-at-a-10-billion-valuation/",
                     "source_description": "Facebook Takes That $200 Million Investment From The Russians At A $10 Billion Valuation.",
-                    "raised_amount": "200000000",
+                    "raised_amount": {
+                        "$numberInt": "200000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "5"
+                    },
+                    "funded_day": {
+                        "$numberInt": "26"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Digital Sky Technologies",
+                                "permalink": "digital-sky-technologies-fo"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -152,9 +1562,29 @@
                     "round_code": "unattributed",
                     "source_url": "http://techcrunch.com/2010/06/28/elevation-invests-another-120-million-in-facebook-as-that-ipo-looks-more-distant/",
                     "source_description": "Elevation Invests Another $120 Million in Facebook as that IPO Looks More Distant",
-                    "raised_amount": "210000000",
+                    "raised_amount": {
+                        "$numberInt": "210000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2010"
+                    "funded_year": {
+                        "$numberInt": "2010"
+                    },
+                    "funded_month": {
+                        "$numberInt": "6"
+                    },
+                    "funded_day": {
+                        "$numberInt": "28"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Elevation Partners",
+                                "permalink": "elevation-partners"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -163,20 +1593,58 @@
                     "round_code": "unattributed",
                     "source_url": "http://www.prnewswire.com/news-releases/facebook-raises-15-billion-114383494.html",
                     "source_description": "Facebook Raises $1.5 Billion",
-                    "raised_amount": "1500000000",
+                    "raised_amount": {
+                        "$numberInt": "1500000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "21"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Goldman Sachs",
+                                "permalink": "goldman-sachs"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Digital Sky Technologies",
+                                "permalink": "digital-sky-technologies-fo"
+                            },
+                            "person": null
+                        }
+                    ]
                 }
             ]
         },
         {
-            "_id": "60b578011b0b31f4be502345",
+            "_id": {
+                "$oid": "60b578011b0b31f4be502345"
+            },
             "name": "Omnidrive",
             "homepage_url": "http://www.omnidrive.com",
             "twitter_username": "Nomadesk",
             "category_code": "network_hosting",
             "number_of_employees": null,
-            "founded_year": "2005",
+            "founded_year": {
+                "$numberInt": "2005"
+            },
+            "founded_month": {
+                "$numberInt": "11"
+            },
+            "founded_day": {
+                "$numberInt": "1"
+            },
             "description": null,
             "total_money_raised": "$800k",
             "funding_rounds": [
@@ -187,20 +1655,80 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": "800000",
+                    "raised_amount": {
+                        "$numberInt": "800000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2006"
+                    "funded_year": {
+                        "$numberInt": "2006"
+                    },
+                    "funded_month": {
+                        "$numberInt": "12"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Michael",
+                                "last_name": "Arrington",
+                                "permalink": "michael-arrington"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Aydin",
+                                "last_name": "Senkut",
+                                "permalink": "aydin-senkut"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Georges",
+                                "last_name": "Harik",
+                                "permalink": "georges-harik"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Jeff",
+                                "last_name": "Clavier",
+                                "permalink": "jeff-clavier"
+                            }
+                        }
+                    ]
                 }
             ]
         },
         {
-            "_id": "60b5788a1b0b31f4be502346",
+            "_id": {
+                "$oid": "60b5788a1b0b31f4be502346"
+            },
             "name": "Twitter",
             "homepage_url": "http://twitter.com",
             "twitter_username": "twitter",
             "category_code": "social",
-            "number_of_employees": "1300",
-            "founded_year": "2006",
+            "number_of_employees": {
+                "$numberInt": "1300"
+            },
+            "founded_year": {
+                "$numberInt": "2006"
+            },
+            "founded_month": {
+                "$numberInt": "3"
+            },
+            "founded_day": {
+                "$numberInt": "21"
+            },
             "description": "Real time communication platform",
             "total_money_raised": "$1.16B",
             "funding_rounds": [
@@ -211,9 +1739,108 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/07/29/more-information-on-that-secretive-twitter-financing/",
                     "source_description": "More Information On That Secretive Twitter Financing",
-                    "raised_amount": "5000000",
+                    "raised_amount": {
+                        "$numberInt": "5000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "7"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Charles River Ventures",
+                                "permalink": "charles-river-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Union Square Ventures",
+                                "permalink": "union-square-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Marc",
+                                "last_name": "Andreessen",
+                                "permalink": "marc-andreessen"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Dick",
+                                "last_name": "Costolo",
+                                "permalink": "dick-costolo"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Naval",
+                                "last_name": "Ravikant",
+                                "permalink": "naval-ravikant"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Ron",
+                                "last_name": "Conway",
+                                "permalink": "ron-conway"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Chris",
+                                "last_name": "Sacca",
+                                "permalink": "chris-sacca"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Greg",
+                                "last_name": "Yaitanes",
+                                "permalink": "greg-yaitanes"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Brian",
+                                "last_name": "Pokorny",
+                                "permalink": "brian-pokorny"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "SV Angel",
+                                "permalink": "sv-angel"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -222,9 +1849,71 @@
                     "round_code": "b",
                     "source_url": "http://www.techcrunch.com/2008/06/24/twitter-announces-their-funding-calls-itself-a-communication-utility/",
                     "source_description": "Twitter Announces Their Funding, Calls Itself A Communication Utility",
-                    "raised_amount": "15000000",
+                    "raised_amount": {
+                        "$numberInt": "15000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2008"
+                    "funded_year": {
+                        "$numberInt": "2008"
+                    },
+                    "funded_month": {
+                        "$numberInt": "5"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Union Square Ventures",
+                                "permalink": "union-square-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Bezos Expeditions",
+                                "permalink": "bezos-expeditions"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Spark Capital",
+                                "permalink": "spark-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Digital Garage",
+                                "permalink": "digital-garage"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Kevin",
+                                "last_name": "Rose",
+                                "permalink": "kevin-rose"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Timothy",
+                                "last_name": "Ferriss",
+                                "permalink": "tim-ferriss"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -233,9 +1922,69 @@
                     "round_code": "c",
                     "source_url": "http://www.techcrunch.com/2009/02/13/twitter-raises-third-round-of-funding-from-benchmark-and-ivp/",
                     "source_description": "Twitter Raises $35 Million Series C From Benchmark and IVP, Others",
-                    "raised_amount": "35000000",
+                    "raised_amount": {
+                        "$numberInt": "35000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "2"
+                    },
+                    "funded_day": {
+                        "$numberInt": "13"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Benchmark",
+                                "permalink": "benchmark-2"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Institutional Venture Partners",
+                                "permalink": "institutional-venture-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Spark Capital",
+                                "permalink": "spark-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Union Square Ventures",
+                                "permalink": "union-square-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Charles River Ventures",
+                                "permalink": "charles-river-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Digital Garage",
+                                "permalink": "digital-garage"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -244,9 +1993,69 @@
                     "round_code": "d",
                     "source_url": "http://blog.twitter.com/2009/09/new-twitter-funding.html",
                     "source_description": "Twitter",
-                    "raised_amount": "100000000",
+                    "raised_amount": {
+                        "$numberInt": "100000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "9"
+                    },
+                    "funded_day": {
+                        "$numberInt": "25"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Insight Venture Partners",
+                                "permalink": "insight-venture-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "T. Rowe Price",
+                                "permalink": "t-rowe-price"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Spark Capital",
+                                "permalink": "spark-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Benchmark",
+                                "permalink": "benchmark-2"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Institutional Venture Partners",
+                                "permalink": "institutional-venture-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Morgan Stanley",
+                                "permalink": "morgan-stanley"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -255,9 +2064,20 @@
                     "round_code": "e",
                     "source_url": "http://www.altassets.net/private-equity-news/article/nz17642.html",
                     "source_description": "http://www.altassets.net/private-equity-news/article/nz17642.html",
-                    "raised_amount": "5166511",
+                    "raised_amount": {
+                        "$numberInt": "5166511"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2010"
+                    "funded_year": {
+                        "$numberInt": "2010"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "8"
+                    },
+                    "investments": []
                 },
                 {
                     "id": {
@@ -266,9 +2086,29 @@
                     "round_code": "f",
                     "source_url": "http://techcrunch.com/2010/12/15/the-smoke-has-cleared-twitter-now-worth-3-7-billion-gets-200-million-and-two-new-board-members/",
                     "source_description": "",
-                    "raised_amount": "200000000",
+                    "raised_amount": {
+                        "$numberInt": "200000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2010"
+                    "funded_year": {
+                        "$numberInt": "2010"
+                    },
+                    "funded_month": {
+                        "$numberInt": "12"
+                    },
+                    "funded_day": {
+                        "$numberInt": "15"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Kleiner Perkins Caufield & Byers",
+                                "permalink": "kleiner-perkins-caufield-byers"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -277,9 +2117,63 @@
                     "round_code": "g",
                     "source_url": "http://www.masshightech.com/stories/2011/08/01/daily15-Twitter-starts-buzz-with-reported-400M-VC-round.html",
                     "source_description": "Twitter starts buzz with reported $400M VC round",
-                    "raised_amount": "400000000",
+                    "raised_amount": {
+                        "$numberInt": "400000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "8"
+                    },
+                    "funded_day": {
+                        "$numberInt": "2"
+                    },
+                    "investments": [
+                        {
+                            "company": {
+                                "name": "DST Global",
+                                "permalink": "dst-global"
+                            },
+                            "financial_org": null,
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "DFJ Growth",
+                                "permalink": "dfj-growth"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Alwaleed",
+                                "last_name": "Bin Talal",
+                                "permalink": "alwaleed-bin-talal"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Chris",
+                                "last_name": "Sacca",
+                                "permalink": "chris-sacca"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "T. Rowe Price",
+                                "permalink": "t-rowe-price"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -288,20 +2182,41 @@
                     "round_code": "secondary_market",
                     "source_url": "http://techcrunch.com/2011/09/08/twitter-closing-its-400m-secondary-offering-tomorrow/",
                     "source_description": "Twitter Closing Its $400M Secondary Offering Tomorrow",
-                    "raised_amount": "400000000",
+                    "raised_amount": {
+                        "$numberInt": "400000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "9"
+                    },
+                    "funded_day": {
+                        "$numberInt": "8"
+                    },
+                    "investments": []
                 }
             ]
         },
         {
-            "_id": "60b57c115d5cde762710241c",
+            "_id": {
+                "$oid": "60b57c115d5cde762710241c"
+            },
             "name": "StumbleUpon",
             "homepage_url": "http://www.stumbleupon.com",
             "twitter_username": "stumbleupon",
             "category_code": "web",
             "number_of_employees": null,
-            "founded_year": "2002",
+            "founded_year": {
+                "$numberInt": "2002"
+            },
+            "founded_month": {
+                "$numberInt": "2"
+            },
+            "founded_day": {
+                "$numberInt": "1"
+            },
             "description": "Content discovery service",
             "total_money_raised": "$18.5M",
             "funding_rounds": [
@@ -312,9 +2227,56 @@
                     "round_code": "seed",
                     "source_url": "http://www.techcrunch.com/2006/11/14/stumbleupon-may-be-for-sale-50m/",
                     "source_description": "StumbleUpon May Be For Sale: 50M",
-                    "raised_amount": "1500000",
+                    "raised_amount": {
+                        "$numberInt": "1500000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2005"
+                    "funded_year": {
+                        "$numberInt": "2005"
+                    },
+                    "funded_month": {
+                        "$numberInt": "12"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "First Round Capital",
+                                "permalink": "first-round-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Ram",
+                                "last_name": "Shriram",
+                                "permalink": "ram-shriram"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Mitch",
+                                "last_name": "Kapor",
+                                "permalink": "mitch-kapor"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Ron",
+                                "last_name": "Conway",
+                                "permalink": "ron-conway"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -325,7 +2287,66 @@
                     "source_description": "StumbleUpon's founders buy service back from eBay",
                     "raised_amount": null,
                     "raised_currency_code": null,
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "4"
+                    },
+                    "funded_day": {
+                        "$numberInt": "13"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Accel Partners",
+                                "permalink": "accel-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sherpalo Ventures",
+                                "permalink": "sherpalo-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "August Capital",
+                                "permalink": "august-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "First Round Capital",
+                                "permalink": "first-round-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Garrett",
+                                "last_name": "Camp",
+                                "permalink": "garrett-camp"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "SV Angel",
+                                "permalink": "sv-angel"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -334,9 +2355,70 @@
                     "round_code": "b",
                     "source_url": "http://techcrunch.com/2011/03/09/stumbleupon-stumbles-onto-17m-from-accel-and-others/",
                     "source_description": "Recommendation Engine StumbleUpon Stumbles Onto $17M From Accel, August Capital And Others",
-                    "raised_amount": "17000000",
+                    "raised_amount": {
+                        "$numberInt": "17000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "3"
+                    },
+                    "funded_day": {
+                        "$numberInt": "9"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Accel Partners",
+                                "permalink": "accel-partners"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "August Capital",
+                                "permalink": "august-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "DAG Ventures",
+                                "permalink": "dag-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "First Round Capital",
+                                "permalink": "first-round-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sherpalo Ventures",
+                                "permalink": "sherpalo-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Garrett",
+                                "last_name": "Camp",
+                                "permalink": "garrett-camp"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -347,18 +2429,43 @@
                     "source_description": "",
                     "raised_amount": null,
                     "raised_currency_code": null,
-                    "funded_year": "2001"
+                    "funded_year": {
+                        "$numberInt": "2001"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Brad",
+                                "last_name": "O'Neill",
+                                "permalink": "brad-oneill"
+                            }
+                        }
+                    ]
                 }
             ]
         },
         {
-            "_id": "60b57f501cc139e9679cd186",
+            "_id": {
+                "$oid": "60b57f501cc139e9679cd186"
+            },
             "name": "Scribd",
             "homepage_url": "http://scribd.com",
             "twitter_username": "scribd",
             "category_code": "news",
-            "number_of_employees": "50",
-            "founded_year": "2007",
+            "number_of_employees": {
+                "$numberInt": "50"
+            },
+            "founded_year": {
+                "$numberInt": "2007"
+            },
             "description": "Read Unlimited Books",
             "total_money_raised": "$25.8M",
             "funding_rounds": [
@@ -369,9 +2476,29 @@
                     "round_code": "seed",
                     "source_url": "http://www.techcrunch.com/2007/03/06/scribd-youtube-for-text-gets-300k/",
                     "source_description": "Scribd \"YouTube for Documents\" Gets $300K",
-                    "raised_amount": "12000",
+                    "raised_amount": {
+                        "$numberInt": "12000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2006"
+                    "funded_year": {
+                        "$numberInt": "2006"
+                    },
+                    "funded_month": {
+                        "$numberInt": "6"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": {
+                                "name": "Y Combinator",
+                                "permalink": "y-combinator"
+                            },
+                            "financial_org": null,
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -380,9 +2507,29 @@
                     "round_code": "angel",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": "40000",
+                    "raised_amount": {
+                        "$numberInt": "40000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "The Kinsey Hills Group",
+                                "permalink": "kinsey-hills-group"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -391,9 +2538,73 @@
                     "round_code": "a",
                     "source_url": "",
                     "source_description": "",
-                    "raised_amount": "3710000",
+                    "raised_amount": {
+                        "$numberInt": "3710000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "6"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "The Kinsey Hills Group",
+                                "permalink": "kinsey-hills-group"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Redpoint Ventures",
+                                "permalink": "redpoint-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Marc",
+                                "last_name": "Andreessen",
+                                "permalink": "marc-andreessen"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "David",
+                                "last_name": "Sacks",
+                                "permalink": "david-sacks"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Jeffrey",
+                                "last_name": "Jordan",
+                                "permalink": "jeffrey-jordan"
+                            }
+                        },
+                        {
+                            "company": null,
+                            "financial_org": null,
+                            "person": {
+                                "first_name": "Craig",
+                                "last_name": "Sherman",
+                                "permalink": "craig-sherman"
+                            }
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -402,9 +2613,45 @@
                     "round_code": "b",
                     "source_url": "http://news.cnet.com/8301-13577_3-10126982-36.html",
                     "source_description": "Scribd chalks up another $9 million",
-                    "raised_amount": "9000000",
+                    "raised_amount": {
+                        "$numberInt": "9000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2008"
+                    "funded_year": {
+                        "$numberInt": "2008"
+                    },
+                    "funded_month": {
+                        "$numberInt": "12"
+                    },
+                    "funded_day": {
+                        "$numberInt": "19"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Charles River Ventures",
+                                "permalink": "charles-river-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Redpoint Ventures",
+                                "permalink": "redpoint-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "The Kinsey Hills Group",
+                                "permalink": "kinsey-hills-group"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -413,20 +2660,68 @@
                     "round_code": "c",
                     "source_url": "http://paidcontent.org/article/419-scribd-raises-13-million-to-support-mobile-moves-product-expansion/",
                     "source_description": "Scribd Raises $13 Million To Support Mobile Moves, Product Expansion ",
-                    "raised_amount": "13000000",
+                    "raised_amount": {
+                        "$numberInt": "13000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "18"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "SVB Capital",
+                                "permalink": "svb-capital"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Redpoint Ventures",
+                                "permalink": "redpoint-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Charles River Ventures",
+                                "permalink": "charles-river-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "The Kinsey Hills Group",
+                                "permalink": "kinsey-hills-group"
+                            },
+                            "person": null
+                        }
+                    ]
                 }
             ]
         },
         {
-            "_id": "60b580fe1cc139e9679cd187",
+            "_id": {
+                "$oid": "60b580fe1cc139e9679cd187"
+            },
             "name": "Slacker",
             "homepage_url": "http://www.slacker.com",
             "twitter_username": "SlackerRadio",
             "category_code": "music",
             "number_of_employees": null,
-            "founded_year": "2006",
+            "founded_year": {
+                "$numberInt": "2006"
+            },
             "description": "Music Personalization Suite",
             "total_money_raised": "$73.1M",
             "funding_rounds": [
@@ -437,9 +2732,53 @@
                     "round_code": "b",
                     "source_url": "http://www.socaltech.com/slacker_raises_4_m/s-0009377.html",
                     "source_description": "",
-                    "raised_amount": "40000000",
+                    "raised_amount": {
+                        "$numberInt": "40000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "6"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Centennial Ventures",
+                                "permalink": "centennial-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Mission Ventures",
+                                "permalink": "mission-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sevin Rosen Funds",
+                                "permalink": "sevin-rosen-funds"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Rho Capital Partners",
+                                "permalink": "rho-capital-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -448,9 +2787,45 @@
                     "round_code": "a",
                     "source_url": "http://www.techcrunch.com/2007/03/14/new-music-service-slacker-has-very-broad-ambitions/",
                     "source_description": "",
-                    "raised_amount": "13500000",
+                    "raised_amount": {
+                        "$numberInt": "13500000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2007"
+                    "funded_year": {
+                        "$numberInt": "2007"
+                    },
+                    "funded_month": {
+                        "$numberInt": "6"
+                    },
+                    "funded_day": {
+                        "$numberInt": "1"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Austin Ventures",
+                                "permalink": "austin-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Mission Ventures",
+                                "permalink": "mission-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sevin Rosen Funds",
+                                "permalink": "sevin-rosen-funds"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -459,9 +2834,61 @@
                     "round_code": "unattributed",
                     "source_url": "http://www.paidcontent.org/entry/419-digital-music-service-slacker-gets-5-million-bridge-round/",
                     "source_description": "Digital Music Service Slacker Gets $5 Million Bridge Round",
-                    "raised_amount": "5000000",
+                    "raised_amount": {
+                        "$numberInt": "5000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "1"
+                    },
+                    "funded_day": {
+                        "$numberInt": "29"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sevin Rosen Funds",
+                                "permalink": "sevin-rosen-funds"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Rho Capital Partners",
+                                "permalink": "rho-capital-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Centennial Ventures",
+                                "permalink": "centennial-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Mission Ventures",
+                                "permalink": "mission-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Austin Ventures",
+                                "permalink": "austin-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -470,9 +2897,61 @@
                     "round_code": "d",
                     "source_url": "http://www.paidcontent.org/entry/419-radio-player-slacker-raises-10-million/",
                     "source_description": "Radio Player Slacker Raises $10 Million In Fourth Round",
-                    "raised_amount": "9600000",
+                    "raised_amount": {
+                        "$numberInt": "9600000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2009"
+                    "funded_year": {
+                        "$numberInt": "2009"
+                    },
+                    "funded_month": {
+                        "$numberInt": "5"
+                    },
+                    "funded_day": {
+                        "$numberInt": "14"
+                    },
+                    "investments": [
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Sevin Rosen Funds",
+                                "permalink": "sevin-rosen-funds"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Rho Capital Partners",
+                                "permalink": "rho-capital-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Centennial Ventures",
+                                "permalink": "centennial-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Mission Ventures",
+                                "permalink": "mission-ventures"
+                            },
+                            "person": null
+                        },
+                        {
+                            "company": null,
+                            "financial_org": {
+                                "name": "Austin Ventures",
+                                "permalink": "austin-ventures"
+                            },
+                            "person": null
+                        }
+                    ]
                 },
                 {
                     "id": {
@@ -481,9 +2960,20 @@
                     "round_code": "debt_round",
                     "source_url": "http://www.sec.gov/Archives/edgar/data/1400813/000140081310000001/xslFormDX01/primary_doc.xml",
                     "source_description": "SEC D",
-                    "raised_amount": "2000000",
+                    "raised_amount": {
+                        "$numberInt": "2000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2010"
+                    "funded_year": {
+                        "$numberInt": "2010"
+                    },
+                    "funded_month": {
+                        "$numberInt": "2"
+                    },
+                    "funded_day": {
+                        "$numberInt": "3"
+                    },
+                    "investments": []
                 },
                 {
                     "id": {
@@ -492,9 +2982,20 @@
                     "round_code": "debt_round",
                     "source_url": "http://techcrunch.com/2011/02/10/slacker-raises-3-million-to-equip-more-phones-cars-with-personal-radio-service/",
                     "source_description": "Slacker Raises $3 Million To Equip More Phones, Cars With Personal Radio Service",
-                    "raised_amount": "3000000",
+                    "raised_amount": {
+                        "$numberInt": "3000000"
+                    },
                     "raised_currency_code": "USD",
-                    "funded_year": "2011"
+                    "funded_year": {
+                        "$numberInt": "2011"
+                    },
+                    "funded_month": {
+                        "$numberInt": "2"
+                    },
+                    "funded_day": {
+                        "$numberInt": "10"
+                    },
+                    "investments": []
                 }
             ]
         }
